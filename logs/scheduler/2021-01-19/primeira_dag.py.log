@@ -1,0 +1,1184 @@
+[2021-01-19 22:27:14,401] {scheduler_job.py:181} INFO - Started process (PID=5805) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:27:14,401] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:27:14,402] {logging_mixin.py:103} INFO - [2021-01-19 22:27:14,402] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:27:14,412] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:27:14,412] {logging_mixin.py:103} INFO - [2021-01-19 22:27:14,412] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:27:14,424] {logging_mixin.py:103} INFO - [2021-01-19 22:27:14,424] {dag.py:1832} INFO - Creating ORM DAG for primeira_dag
+[2021-01-19 22:27:14,427] {logging_mixin.py:103} INFO - [2021-01-19 22:27:14,427] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:27:14,454] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.056 seconds
+[2021-01-19 22:41:09,572] {scheduler_job.py:181} INFO - Started process (PID=6679) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:41:09,574] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:41:09,574] {logging_mixin.py:103} INFO - [2021-01-19 22:41:09,574] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:41:09,584] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:41:09,585] {logging_mixin.py:103} INFO - [2021-01-19 22:41:09,585] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:41:09,599] {logging_mixin.py:103} INFO - [2021-01-19 22:41:09,599] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:41:09,611] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 22:41:37,858] {scheduler_job.py:181} INFO - Started process (PID=6721) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:41:37,858] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:41:37,859] {logging_mixin.py:103} INFO - [2021-01-19 22:41:37,859] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:41:37,869] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:41:37,869] {logging_mixin.py:103} INFO - [2021-01-19 22:41:37,869] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:41:37,884] {logging_mixin.py:103} INFO - [2021-01-19 22:41:37,884] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:41:37,895] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:42:05,916] {scheduler_job.py:181} INFO - Started process (PID=6847) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:42:05,917] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:42:05,918] {logging_mixin.py:103} INFO - [2021-01-19 22:42:05,918] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:42:05,928] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:42:05,929] {logging_mixin.py:103} INFO - [2021-01-19 22:42:05,929] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:42:05,944] {logging_mixin.py:103} INFO - [2021-01-19 22:42:05,944] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:42:05,956] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.042 seconds
+[2021-01-19 22:42:34,512] {scheduler_job.py:181} INFO - Started process (PID=6885) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:42:34,513] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:42:34,513] {logging_mixin.py:103} INFO - [2021-01-19 22:42:34,513] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:42:34,523] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:42:34,524] {logging_mixin.py:103} INFO - [2021-01-19 22:42:34,524] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:42:34,538] {logging_mixin.py:103} INFO - [2021-01-19 22:42:34,538] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:42:34,550] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 22:43:02,506] {scheduler_job.py:181} INFO - Started process (PID=6936) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:02,506] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:43:02,507] {logging_mixin.py:103} INFO - [2021-01-19 22:43:02,507] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:02,517] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:02,517] {logging_mixin.py:103} INFO - [2021-01-19 22:43:02,517] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:43:02,532] {logging_mixin.py:103} INFO - [2021-01-19 22:43:02,532] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:43:02,543] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:43:31,104] {scheduler_job.py:181} INFO - Started process (PID=6979) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:31,107] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:43:31,108] {logging_mixin.py:103} INFO - [2021-01-19 22:43:31,108] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:31,115] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:31,116] {logging_mixin.py:103} INFO - [2021-01-19 22:43:31,116] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:43:31,131] {logging_mixin.py:103} INFO - [2021-01-19 22:43:31,131] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:43:31,143] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.042 seconds
+[2021-01-19 22:43:58,221] {scheduler_job.py:181} INFO - Started process (PID=7319) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:58,222] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:43:58,222] {logging_mixin.py:103} INFO - [2021-01-19 22:43:58,222] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:58,230] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:43:58,231] {logging_mixin.py:103} INFO - [2021-01-19 22:43:58,231] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:43:58,246] {logging_mixin.py:103} INFO - [2021-01-19 22:43:58,246] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:43:58,258] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:44:26,225] {scheduler_job.py:181} INFO - Started process (PID=7373) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:44:26,226] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:44:26,226] {logging_mixin.py:103} INFO - [2021-01-19 22:44:26,226] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:44:26,235] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:44:26,235] {logging_mixin.py:103} INFO - [2021-01-19 22:44:26,235] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:44:26,251] {logging_mixin.py:103} INFO - [2021-01-19 22:44:26,251] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:44:26,262] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:44:54,595] {scheduler_job.py:181} INFO - Started process (PID=7410) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:44:54,595] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:44:54,596] {logging_mixin.py:103} INFO - [2021-01-19 22:44:54,596] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:44:54,604] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:44:54,605] {logging_mixin.py:103} INFO - [2021-01-19 22:44:54,605] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:44:54,620] {logging_mixin.py:103} INFO - [2021-01-19 22:44:54,620] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:44:54,632] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:45:21,525] {scheduler_job.py:181} INFO - Started process (PID=7466) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:45:21,526] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:45:21,526] {logging_mixin.py:103} INFO - [2021-01-19 22:45:21,526] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:45:21,534] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:45:21,535] {logging_mixin.py:103} INFO - [2021-01-19 22:45:21,535] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:45:21,550] {logging_mixin.py:103} INFO - [2021-01-19 22:45:21,549] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:45:21,561] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:45:50,133] {scheduler_job.py:181} INFO - Started process (PID=7537) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:45:50,134] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:45:50,134] {logging_mixin.py:103} INFO - [2021-01-19 22:45:50,134] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:45:50,142] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:45:50,143] {logging_mixin.py:103} INFO - [2021-01-19 22:45:50,143] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:45:50,158] {logging_mixin.py:103} INFO - [2021-01-19 22:45:50,158] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:45:50,170] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:46:18,035] {scheduler_job.py:181} INFO - Started process (PID=7588) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:46:18,036] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:46:18,037] {logging_mixin.py:103} INFO - [2021-01-19 22:46:18,037] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:46:18,045] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:46:18,046] {logging_mixin.py:103} INFO - [2021-01-19 22:46:18,046] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:46:18,060] {logging_mixin.py:103} INFO - [2021-01-19 22:46:18,060] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:46:18,072] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:46:46,634] {scheduler_job.py:181} INFO - Started process (PID=7637) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:46:46,635] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:46:46,635] {logging_mixin.py:103} INFO - [2021-01-19 22:46:46,635] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:46:46,644] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:46:46,644] {logging_mixin.py:103} INFO - [2021-01-19 22:46:46,644] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:46:46,660] {logging_mixin.py:103} INFO - [2021-01-19 22:46:46,660] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:46:46,672] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:47:14,708] {scheduler_job.py:181} INFO - Started process (PID=7703) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:47:14,708] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:47:14,709] {logging_mixin.py:103} INFO - [2021-01-19 22:47:14,709] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:47:14,717] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:47:14,717] {logging_mixin.py:103} INFO - [2021-01-19 22:47:14,717] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:47:14,732] {logging_mixin.py:103} INFO - [2021-01-19 22:47:14,732] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:47:14,744] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:47:42,714] {scheduler_job.py:181} INFO - Started process (PID=7743) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:47:42,715] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:47:42,716] {logging_mixin.py:103} INFO - [2021-01-19 22:47:42,716] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:47:42,724] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:47:42,724] {logging_mixin.py:103} INFO - [2021-01-19 22:47:42,724] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:47:42,739] {logging_mixin.py:103} INFO - [2021-01-19 22:47:42,739] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:47:42,751] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:48:11,296] {scheduler_job.py:181} INFO - Started process (PID=7790) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:48:11,297] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:48:11,298] {logging_mixin.py:103} INFO - [2021-01-19 22:48:11,297] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:48:11,305] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:48:11,306] {logging_mixin.py:103} INFO - [2021-01-19 22:48:11,306] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:48:11,321] {logging_mixin.py:103} INFO - [2021-01-19 22:48:11,321] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:48:11,333] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:48:39,891] {scheduler_job.py:181} INFO - Started process (PID=7833) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:48:39,892] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:48:39,893] {logging_mixin.py:103} INFO - [2021-01-19 22:48:39,893] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:48:39,901] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:48:39,902] {logging_mixin.py:103} INFO - [2021-01-19 22:48:39,902] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:48:39,917] {logging_mixin.py:103} INFO - [2021-01-19 22:48:39,917] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:48:39,928] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:49:07,814] {scheduler_job.py:181} INFO - Started process (PID=7885) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:49:07,815] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:49:07,816] {logging_mixin.py:103} INFO - [2021-01-19 22:49:07,816] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:49:07,824] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:49:07,824] {logging_mixin.py:103} INFO - [2021-01-19 22:49:07,824] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:49:07,840] {logging_mixin.py:103} INFO - [2021-01-19 22:49:07,839] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:49:07,851] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:49:35,211] {scheduler_job.py:181} INFO - Started process (PID=8002) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:49:35,212] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:49:35,212] {logging_mixin.py:103} INFO - [2021-01-19 22:49:35,212] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:49:35,220] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:49:35,221] {logging_mixin.py:103} INFO - [2021-01-19 22:49:35,221] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:49:35,236] {logging_mixin.py:103} INFO - [2021-01-19 22:49:35,236] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:49:35,248] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:50:04,305] {scheduler_job.py:181} INFO - Started process (PID=8054) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:50:04,306] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:50:04,306] {logging_mixin.py:103} INFO - [2021-01-19 22:50:04,306] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:50:04,314] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:50:04,315] {logging_mixin.py:103} INFO - [2021-01-19 22:50:04,315] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:50:04,330] {logging_mixin.py:103} INFO - [2021-01-19 22:50:04,330] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:50:04,342] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:50:31,764] {scheduler_job.py:181} INFO - Started process (PID=8095) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:50:31,765] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:50:31,765] {logging_mixin.py:103} INFO - [2021-01-19 22:50:31,765] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:50:31,773] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:50:31,774] {logging_mixin.py:103} INFO - [2021-01-19 22:50:31,774] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:50:31,789] {logging_mixin.py:103} INFO - [2021-01-19 22:50:31,789] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:50:31,800] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:51:00,570] {scheduler_job.py:181} INFO - Started process (PID=8134) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:00,571] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:51:00,571] {logging_mixin.py:103} INFO - [2021-01-19 22:51:00,571] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:00,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:00,580] {logging_mixin.py:103} INFO - [2021-01-19 22:51:00,580] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:51:00,596] {logging_mixin.py:103} INFO - [2021-01-19 22:51:00,595] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:51:00,608] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:51:29,379] {scheduler_job.py:181} INFO - Started process (PID=8181) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:29,380] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:51:29,380] {logging_mixin.py:103} INFO - [2021-01-19 22:51:29,380] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:29,388] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:29,389] {logging_mixin.py:103} INFO - [2021-01-19 22:51:29,389] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:51:29,405] {logging_mixin.py:103} INFO - [2021-01-19 22:51:29,404] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:51:29,416] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:51:57,345] {scheduler_job.py:181} INFO - Started process (PID=8223) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:57,346] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:51:57,347] {logging_mixin.py:103} INFO - [2021-01-19 22:51:57,347] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:57,355] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:51:57,356] {logging_mixin.py:103} INFO - [2021-01-19 22:51:57,356] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:51:57,371] {logging_mixin.py:103} INFO - [2021-01-19 22:51:57,371] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:51:57,383] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:52:25,873] {scheduler_job.py:181} INFO - Started process (PID=8274) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:52:25,874] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:52:25,874] {logging_mixin.py:103} INFO - [2021-01-19 22:52:25,874] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:52:25,882] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:52:25,883] {logging_mixin.py:103} INFO - [2021-01-19 22:52:25,883] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:52:25,898] {logging_mixin.py:103} INFO - [2021-01-19 22:52:25,898] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:52:25,909] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:52:53,830] {scheduler_job.py:181} INFO - Started process (PID=8316) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:52:53,831] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:52:53,832] {logging_mixin.py:103} INFO - [2021-01-19 22:52:53,831] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:52:53,840] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:52:53,840] {logging_mixin.py:103} INFO - [2021-01-19 22:52:53,840] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:52:53,855] {logging_mixin.py:103} INFO - [2021-01-19 22:52:53,855] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:52:53,867] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:53:22,356] {scheduler_job.py:181} INFO - Started process (PID=8367) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:53:22,358] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:53:22,358] {logging_mixin.py:103} INFO - [2021-01-19 22:53:22,358] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:53:22,366] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:53:22,366] {logging_mixin.py:103} INFO - [2021-01-19 22:53:22,366] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:53:22,381] {logging_mixin.py:103} INFO - [2021-01-19 22:53:22,381] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:53:22,393] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:53:50,370] {scheduler_job.py:181} INFO - Started process (PID=8410) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:53:50,371] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:53:50,371] {logging_mixin.py:103} INFO - [2021-01-19 22:53:50,371] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:53:50,379] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:53:50,380] {logging_mixin.py:103} INFO - [2021-01-19 22:53:50,380] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:53:50,395] {logging_mixin.py:103} INFO - [2021-01-19 22:53:50,395] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:53:50,406] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:54:17,839] {scheduler_job.py:181} INFO - Started process (PID=8463) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:54:17,840] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:54:17,841] {logging_mixin.py:103} INFO - [2021-01-19 22:54:17,840] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:54:17,849] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:54:17,849] {logging_mixin.py:103} INFO - [2021-01-19 22:54:17,849] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:54:17,864] {logging_mixin.py:103} INFO - [2021-01-19 22:54:17,864] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:54:17,876] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:54:46,345] {scheduler_job.py:181} INFO - Started process (PID=8501) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:54:46,346] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:54:46,347] {logging_mixin.py:103} INFO - [2021-01-19 22:54:46,346] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:54:46,355] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:54:46,356] {logging_mixin.py:103} INFO - [2021-01-19 22:54:46,356] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:54:46,371] {logging_mixin.py:103} INFO - [2021-01-19 22:54:46,371] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:54:46,383] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:55:14,325] {scheduler_job.py:181} INFO - Started process (PID=8553) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:55:14,326] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:55:14,327] {logging_mixin.py:103} INFO - [2021-01-19 22:55:14,327] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:55:14,334] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:55:14,335] {logging_mixin.py:103} INFO - [2021-01-19 22:55:14,335] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:55:14,350] {logging_mixin.py:103} INFO - [2021-01-19 22:55:14,350] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:55:14,361] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.038 seconds
+[2021-01-19 22:55:43,421] {scheduler_job.py:181} INFO - Started process (PID=8592) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:55:43,422] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:55:43,422] {logging_mixin.py:103} INFO - [2021-01-19 22:55:43,422] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:55:43,431] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:55:43,431] {logging_mixin.py:103} INFO - [2021-01-19 22:55:43,431] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:55:43,447] {logging_mixin.py:103} INFO - [2021-01-19 22:55:43,447] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:55:43,459] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:56:09,674] {scheduler_job.py:181} INFO - Started process (PID=8644) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:56:09,675] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:56:09,675] {logging_mixin.py:103} INFO - [2021-01-19 22:56:09,675] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:56:09,683] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:56:09,684] {logging_mixin.py:103} INFO - [2021-01-19 22:56:09,684] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:56:09,698] {logging_mixin.py:103} INFO - [2021-01-19 22:56:09,698] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:56:09,710] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:56:38,776] {scheduler_job.py:181} INFO - Started process (PID=8685) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:56:38,776] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:56:38,777] {logging_mixin.py:103} INFO - [2021-01-19 22:56:38,777] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:56:38,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:56:38,786] {logging_mixin.py:103} INFO - [2021-01-19 22:56:38,786] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:56:38,801] {logging_mixin.py:103} INFO - [2021-01-19 22:56:38,801] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:56:38,813] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:57:06,175] {scheduler_job.py:181} INFO - Started process (PID=8808) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:57:06,176] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:57:06,176] {logging_mixin.py:103} INFO - [2021-01-19 22:57:06,176] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:57:06,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:57:06,186] {logging_mixin.py:103} INFO - [2021-01-19 22:57:06,186] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:57:06,201] {logging_mixin.py:103} INFO - [2021-01-19 22:57:06,201] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:57:06,213] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 22:57:34,993] {scheduler_job.py:181} INFO - Started process (PID=8846) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:57:34,994] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:57:34,994] {logging_mixin.py:103} INFO - [2021-01-19 22:57:34,994] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:57:35,002] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:57:35,003] {logging_mixin.py:103} INFO - [2021-01-19 22:57:35,003] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:57:35,019] {logging_mixin.py:103} INFO - [2021-01-19 22:57:35,019] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:57:35,031] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 22:58:02,996] {scheduler_job.py:181} INFO - Started process (PID=8898) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:02,996] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:58:02,997] {logging_mixin.py:103} INFO - [2021-01-19 22:58:02,997] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:03,005] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:03,006] {logging_mixin.py:103} INFO - [2021-01-19 22:58:03,006] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:58:03,021] {logging_mixin.py:103} INFO - [2021-01-19 22:58:03,021] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:58:03,033] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:58:31,771] {scheduler_job.py:181} INFO - Started process (PID=8939) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:31,772] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:58:31,772] {logging_mixin.py:103} INFO - [2021-01-19 22:58:31,772] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:31,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:31,781] {logging_mixin.py:103} INFO - [2021-01-19 22:58:31,781] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:58:31,797] {logging_mixin.py:103} INFO - [2021-01-19 22:58:31,797] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:58:31,808] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 22:58:59,325] {scheduler_job.py:181} INFO - Started process (PID=8981) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:59,326] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:58:59,326] {logging_mixin.py:103} INFO - [2021-01-19 22:58:59,326] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:59,334] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:58:59,335] {logging_mixin.py:103} INFO - [2021-01-19 22:58:59,335] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:58:59,350] {logging_mixin.py:103} INFO - [2021-01-19 22:58:59,350] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:58:59,361] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 22:59:28,309] {scheduler_job.py:181} INFO - Started process (PID=9036) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:59:28,310] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:59:28,311] {logging_mixin.py:103} INFO - [2021-01-19 22:59:28,311] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:59:28,319] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:59:28,320] {logging_mixin.py:103} INFO - [2021-01-19 22:59:28,320] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:59:28,335] {logging_mixin.py:103} INFO - [2021-01-19 22:59:28,335] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:59:28,347] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 22:59:55,867] {scheduler_job.py:181} INFO - Started process (PID=9078) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:59:55,868] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 22:59:55,869] {logging_mixin.py:103} INFO - [2021-01-19 22:59:55,869] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:59:55,876] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 22:59:55,877] {logging_mixin.py:103} INFO - [2021-01-19 22:59:55,877] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 22:59:55,892] {logging_mixin.py:103} INFO - [2021-01-19 22:59:55,892] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 22:59:55,904] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:00:26,609] {scheduler_job.py:181} INFO - Started process (PID=9134) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:00:26,610] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:00:26,610] {logging_mixin.py:103} INFO - [2021-01-19 23:00:26,610] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:00:26,618] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:00:26,619] {logging_mixin.py:103} INFO - [2021-01-19 23:00:26,619] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:00:26,634] {logging_mixin.py:103} INFO - [2021-01-19 23:00:26,634] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:00:26,646] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:00:53,441] {scheduler_job.py:181} INFO - Started process (PID=9175) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:00:53,441] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:00:53,442] {logging_mixin.py:103} INFO - [2021-01-19 23:00:53,442] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:00:53,450] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:00:53,450] {logging_mixin.py:103} INFO - [2021-01-19 23:00:53,450] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:00:53,465] {logging_mixin.py:103} INFO - [2021-01-19 23:00:53,465] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:00:53,477] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:01:20,973] {scheduler_job.py:181} INFO - Started process (PID=9230) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:01:20,973] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:01:20,974] {logging_mixin.py:103} INFO - [2021-01-19 23:01:20,974] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:01:20,982] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:01:20,983] {logging_mixin.py:103} INFO - [2021-01-19 23:01:20,983] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:01:20,997] {logging_mixin.py:103} INFO - [2021-01-19 23:01:20,997] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:01:21,009] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:01:48,824] {scheduler_job.py:181} INFO - Started process (PID=9271) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:01:48,825] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:01:48,825] {logging_mixin.py:103} INFO - [2021-01-19 23:01:48,825] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:01:48,834] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:01:48,834] {logging_mixin.py:103} INFO - [2021-01-19 23:01:48,834] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:01:48,849] {logging_mixin.py:103} INFO - [2021-01-19 23:01:48,849] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:01:48,861] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:02:16,781] {scheduler_job.py:181} INFO - Started process (PID=9324) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:02:16,782] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:02:16,783] {logging_mixin.py:103} INFO - [2021-01-19 23:02:16,783] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:02:16,791] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:02:16,791] {logging_mixin.py:103} INFO - [2021-01-19 23:02:16,791] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:02:16,806] {logging_mixin.py:103} INFO - [2021-01-19 23:02:16,806] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:02:16,818] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:02:44,836] {scheduler_job.py:181} INFO - Started process (PID=9365) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:02:44,837] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:02:44,838] {logging_mixin.py:103} INFO - [2021-01-19 23:02:44,838] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:02:44,846] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:02:44,847] {logging_mixin.py:103} INFO - [2021-01-19 23:02:44,846] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:02:44,862] {logging_mixin.py:103} INFO - [2021-01-19 23:02:44,862] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:02:44,873] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:03:12,277] {scheduler_job.py:181} INFO - Started process (PID=9411) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:03:12,277] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:03:12,278] {logging_mixin.py:103} INFO - [2021-01-19 23:03:12,278] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:03:12,286] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:03:12,287] {logging_mixin.py:103} INFO - [2021-01-19 23:03:12,287] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:03:12,302] {logging_mixin.py:103} INFO - [2021-01-19 23:03:12,302] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:03:12,313] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:03:41,350] {scheduler_job.py:181} INFO - Started process (PID=9452) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:03:41,351] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:03:41,351] {logging_mixin.py:103} INFO - [2021-01-19 23:03:41,351] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:03:41,359] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:03:41,360] {logging_mixin.py:103} INFO - [2021-01-19 23:03:41,360] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:03:41,375] {logging_mixin.py:103} INFO - [2021-01-19 23:03:41,375] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:03:41,386] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:04:08,797] {scheduler_job.py:181} INFO - Started process (PID=9502) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:04:08,798] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:04:08,798] {logging_mixin.py:103} INFO - [2021-01-19 23:04:08,798] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:04:08,807] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:04:08,807] {logging_mixin.py:103} INFO - [2021-01-19 23:04:08,807] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:04:08,823] {logging_mixin.py:103} INFO - [2021-01-19 23:04:08,823] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:04:08,835] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:04:37,596] {scheduler_job.py:181} INFO - Started process (PID=9637) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:04:37,597] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:04:37,598] {logging_mixin.py:103} INFO - [2021-01-19 23:04:37,597] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:04:37,605] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:04:37,606] {logging_mixin.py:103} INFO - [2021-01-19 23:04:37,606] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:04:37,623] {logging_mixin.py:103} INFO - [2021-01-19 23:04:37,623] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:04:37,640] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.047 seconds
+[2021-01-19 23:05:06,405] {scheduler_job.py:181} INFO - Started process (PID=9690) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:05:06,405] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:05:06,406] {logging_mixin.py:103} INFO - [2021-01-19 23:05:06,406] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:05:06,414] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:05:06,414] {logging_mixin.py:103} INFO - [2021-01-19 23:05:06,414] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:05:06,428] {logging_mixin.py:103} INFO - [2021-01-19 23:05:06,428] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:05:06,440] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.037 seconds
+[2021-01-19 23:05:34,346] {scheduler_job.py:181} INFO - Started process (PID=9731) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:05:34,347] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:05:34,348] {logging_mixin.py:103} INFO - [2021-01-19 23:05:34,347] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:05:34,355] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:05:34,356] {logging_mixin.py:103} INFO - [2021-01-19 23:05:34,356] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:05:34,371] {logging_mixin.py:103} INFO - [2021-01-19 23:05:34,371] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:05:34,382] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.038 seconds
+[2021-01-19 23:06:01,796] {scheduler_job.py:181} INFO - Started process (PID=9772) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:01,797] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:06:01,798] {logging_mixin.py:103} INFO - [2021-01-19 23:06:01,797] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:01,806] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:01,807] {logging_mixin.py:103} INFO - [2021-01-19 23:06:01,807] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:06:01,823] {logging_mixin.py:103} INFO - [2021-01-19 23:06:01,823] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:06:01,836] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.042 seconds
+[2021-01-19 23:06:29,740] {scheduler_job.py:181} INFO - Started process (PID=9820) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:29,741] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:06:29,741] {logging_mixin.py:103} INFO - [2021-01-19 23:06:29,741] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:29,749] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:29,750] {logging_mixin.py:103} INFO - [2021-01-19 23:06:29,750] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:06:29,765] {logging_mixin.py:103} INFO - [2021-01-19 23:06:29,765] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:06:29,777] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:06:58,317] {scheduler_job.py:181} INFO - Started process (PID=9861) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:58,317] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:06:58,318] {logging_mixin.py:103} INFO - [2021-01-19 23:06:58,318] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:58,326] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:06:58,327] {logging_mixin.py:103} INFO - [2021-01-19 23:06:58,327] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:06:58,342] {logging_mixin.py:103} INFO - [2021-01-19 23:06:58,342] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:06:58,354] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:07:26,276] {scheduler_job.py:181} INFO - Started process (PID=9913) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:07:26,276] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:07:26,277] {logging_mixin.py:103} INFO - [2021-01-19 23:07:26,277] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:07:26,285] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:07:26,286] {logging_mixin.py:103} INFO - [2021-01-19 23:07:26,286] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:07:26,301] {logging_mixin.py:103} INFO - [2021-01-19 23:07:26,301] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:07:26,312] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:07:53,725] {scheduler_job.py:181} INFO - Started process (PID=9950) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:07:53,726] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:07:53,726] {logging_mixin.py:103} INFO - [2021-01-19 23:07:53,726] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:07:53,735] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:07:53,735] {logging_mixin.py:103} INFO - [2021-01-19 23:07:53,735] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:07:53,750] {logging_mixin.py:103} INFO - [2021-01-19 23:07:53,750] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:07:53,761] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:08:22,822] {scheduler_job.py:181} INFO - Started process (PID=10002) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:08:22,823] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:08:22,824] {logging_mixin.py:103} INFO - [2021-01-19 23:08:22,824] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:08:22,831] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:08:22,832] {logging_mixin.py:103} INFO - [2021-01-19 23:08:22,832] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:08:22,847] {logging_mixin.py:103} INFO - [2021-01-19 23:08:22,847] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:08:22,892] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.072 seconds
+[2021-01-19 23:08:50,206] {scheduler_job.py:181} INFO - Started process (PID=10040) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:08:50,207] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:08:50,208] {logging_mixin.py:103} INFO - [2021-01-19 23:08:50,208] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:08:50,216] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:08:50,216] {logging_mixin.py:103} INFO - [2021-01-19 23:08:50,216] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:08:50,231] {logging_mixin.py:103} INFO - [2021-01-19 23:08:50,231] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:08:50,275] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.071 seconds
+[2021-01-19 23:09:19,316] {scheduler_job.py:181} INFO - Started process (PID=10167) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:09:19,317] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:09:19,317] {logging_mixin.py:103} INFO - [2021-01-19 23:09:19,317] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:09:19,325] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:09:19,326] {logging_mixin.py:103} INFO - [2021-01-19 23:09:19,326] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:09:19,342] {logging_mixin.py:103} INFO - [2021-01-19 23:09:19,342] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:09:19,388] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.075 seconds
+[2021-01-19 23:09:46,699] {scheduler_job.py:181} INFO - Started process (PID=10210) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:09:46,699] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:09:46,700] {logging_mixin.py:103} INFO - [2021-01-19 23:09:46,700] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:09:46,708] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:09:46,708] {logging_mixin.py:103} INFO - [2021-01-19 23:09:46,708] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:09:46,723] {logging_mixin.py:103} INFO - [2021-01-19 23:09:46,723] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:09:46,766] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.070 seconds
+[2021-01-19 23:10:15,795] {scheduler_job.py:181} INFO - Started process (PID=10268) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:10:15,796] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:10:15,796] {logging_mixin.py:103} INFO - [2021-01-19 23:10:15,796] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:10:15,804] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:10:15,805] {logging_mixin.py:103} INFO - [2021-01-19 23:10:15,805] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:10:15,820] {logging_mixin.py:103} INFO - [2021-01-19 23:10:15,820] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:10:15,865] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.072 seconds
+[2021-01-19 23:10:43,187] {scheduler_job.py:181} INFO - Started process (PID=10320) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:10:43,188] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:10:43,188] {logging_mixin.py:103} INFO - [2021-01-19 23:10:43,188] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:10:43,196] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:10:43,197] {logging_mixin.py:103} INFO - [2021-01-19 23:10:43,197] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:10:43,213] {logging_mixin.py:103} INFO - [2021-01-19 23:10:43,213] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:10:43,256] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.071 seconds
+[2021-01-19 23:11:12,004] {scheduler_job.py:181} INFO - Started process (PID=10383) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:11:12,005] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:11:12,005] {logging_mixin.py:103} INFO - [2021-01-19 23:11:12,005] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:11:12,013] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:11:12,014] {logging_mixin.py:103} INFO - [2021-01-19 23:11:12,014] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:11:12,062] {logging_mixin.py:103} INFO - [2021-01-19 23:11:12,062] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:11:12,072] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.071 seconds
+[2021-01-19 23:11:40,007] {scheduler_job.py:181} INFO - Started process (PID=10425) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:11:40,008] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:11:40,009] {logging_mixin.py:103} INFO - [2021-01-19 23:11:40,009] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:11:40,017] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:11:40,018] {logging_mixin.py:103} INFO - [2021-01-19 23:11:40,018] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:11:40,067] {logging_mixin.py:103} INFO - [2021-01-19 23:11:40,067] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:11:40,078] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.073 seconds
+[2021-01-19 23:12:08,756] {scheduler_job.py:181} INFO - Started process (PID=10551) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:12:08,757] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:12:08,757] {logging_mixin.py:103} INFO - [2021-01-19 23:12:08,757] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:12:08,766] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:12:08,766] {logging_mixin.py:103} INFO - [2021-01-19 23:12:08,766] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:12:08,819] {logging_mixin.py:103} INFO - [2021-01-19 23:12:08,819] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:12:08,830] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.077 seconds
+[2021-01-19 23:12:36,310] {scheduler_job.py:181} INFO - Started process (PID=10594) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:12:36,311] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:12:36,311] {logging_mixin.py:103} INFO - [2021-01-19 23:12:36,311] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:12:36,320] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:12:36,320] {logging_mixin.py:103} INFO - [2021-01-19 23:12:36,320] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:12:36,367] {logging_mixin.py:103} INFO - [2021-01-19 23:12:36,367] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:12:36,377] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.070 seconds
+[2021-01-19 23:13:05,299] {scheduler_job.py:181} INFO - Started process (PID=10647) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:13:05,300] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:13:05,301] {logging_mixin.py:103} INFO - [2021-01-19 23:13:05,300] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:13:05,308] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:13:05,309] {logging_mixin.py:103} INFO - [2021-01-19 23:13:05,309] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:13:05,360] {logging_mixin.py:103} INFO - [2021-01-19 23:13:05,360] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:13:05,371] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.075 seconds
+[2021-01-19 23:13:32,855] {scheduler_job.py:181} INFO - Started process (PID=10693) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:13:32,856] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:13:32,856] {logging_mixin.py:103} INFO - [2021-01-19 23:13:32,856] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:13:32,901] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:13:32,902] {logging_mixin.py:103} INFO - [2021-01-19 23:13:32,902] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:13:32,912] {logging_mixin.py:103} INFO - [2021-01-19 23:13:32,912] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:13:32,923] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.070 seconds
+[2021-01-19 23:14:01,909] {scheduler_job.py:181} INFO - Started process (PID=10759) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:01,910] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:14:01,911] {logging_mixin.py:103} INFO - [2021-01-19 23:14:01,911] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:01,967] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:01,968] {logging_mixin.py:103} INFO - [2021-01-19 23:14:01,968] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:14:01,981] {logging_mixin.py:103} INFO - [2021-01-19 23:14:01,981] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:14:01,994] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.087 seconds
+[2021-01-19 23:14:29,362] {scheduler_job.py:181} INFO - Started process (PID=10854) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:29,363] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:14:29,364] {logging_mixin.py:103} INFO - [2021-01-19 23:14:29,364] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:29,409] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:29,409] {logging_mixin.py:103} INFO - [2021-01-19 23:14:29,409] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:14:29,420] {logging_mixin.py:103} INFO - [2021-01-19 23:14:29,420] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:14:29,431] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.071 seconds
+[2021-01-19 23:14:57,888] {scheduler_job.py:181} INFO - Started process (PID=10906) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:57,889] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:14:57,890] {logging_mixin.py:103} INFO - [2021-01-19 23:14:57,890] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:57,933] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:14:57,933] {logging_mixin.py:103} INFO - [2021-01-19 23:14:57,933] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:14:57,944] {logging_mixin.py:103} INFO - [2021-01-19 23:14:57,944] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:14:57,955] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.069 seconds
+[2021-01-19 23:15:25,854] {scheduler_job.py:181} INFO - Started process (PID=10968) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:15:25,854] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:15:25,855] {logging_mixin.py:103} INFO - [2021-01-19 23:15:25,855] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:15:25,898] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:15:25,899] {logging_mixin.py:103} INFO - [2021-01-19 23:15:25,899] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:15:25,910] {logging_mixin.py:103} INFO - [2021-01-19 23:15:25,910] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:15:25,920] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.069 seconds
+[2021-01-19 23:15:54,952] {scheduler_job.py:181} INFO - Started process (PID=11037) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:15:54,952] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:15:54,953] {logging_mixin.py:103} INFO - [2021-01-19 23:15:54,953] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:15:55,011] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:15:55,015] {logging_mixin.py:103} INFO - [2021-01-19 23:15:55,015] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:15:55,030] {logging_mixin.py:103} INFO - [2021-01-19 23:15:55,030] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:15:55,043] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.094 seconds
+[2021-01-19 23:16:21,887] {scheduler_job.py:181} INFO - Started process (PID=11105) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:16:21,888] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:16:21,888] {logging_mixin.py:103} INFO - [2021-01-19 23:16:21,888] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:16:21,896] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:16:21,897] {logging_mixin.py:103} INFO - [2021-01-19 23:16:21,897] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:16:21,912] {logging_mixin.py:103} INFO - [2021-01-19 23:16:21,912] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:16:21,924] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:16:49,258] {scheduler_job.py:181} INFO - Started process (PID=11153) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:16:49,259] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:16:49,259] {logging_mixin.py:103} INFO - [2021-01-19 23:16:49,259] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:16:49,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:16:49,268] {logging_mixin.py:103} INFO - [2021-01-19 23:16:49,268] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:16:49,283] {logging_mixin.py:103} INFO - [2021-01-19 23:16:49,283] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:16:49,295] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:17:18,352] {scheduler_job.py:181} INFO - Started process (PID=11214) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:17:18,353] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:17:18,354] {logging_mixin.py:103} INFO - [2021-01-19 23:17:18,354] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:17:18,362] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:17:18,362] {logging_mixin.py:103} INFO - [2021-01-19 23:17:18,362] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:17:18,378] {logging_mixin.py:103} INFO - [2021-01-19 23:17:18,377] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:17:18,389] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:17:45,820] {scheduler_job.py:181} INFO - Started process (PID=11260) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:17:45,821] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:17:45,821] {logging_mixin.py:103} INFO - [2021-01-19 23:17:45,821] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:17:45,830] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:17:45,830] {logging_mixin.py:103} INFO - [2021-01-19 23:17:45,830] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:17:45,845] {logging_mixin.py:103} INFO - [2021-01-19 23:17:45,845] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:17:45,857] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:18:14,626] {scheduler_job.py:181} INFO - Started process (PID=11311) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:18:14,627] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:18:14,627] {logging_mixin.py:103} INFO - [2021-01-19 23:18:14,627] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:18:14,635] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:18:14,636] {logging_mixin.py:103} INFO - [2021-01-19 23:18:14,636] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:18:14,652] {logging_mixin.py:103} INFO - [2021-01-19 23:18:14,652] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:18:14,663] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:18:43,441] {scheduler_job.py:181} INFO - Started process (PID=11351) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:18:43,442] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:18:43,442] {logging_mixin.py:103} INFO - [2021-01-19 23:18:43,442] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:18:43,450] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:18:43,451] {logging_mixin.py:103} INFO - [2021-01-19 23:18:43,451] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:18:43,466] {logging_mixin.py:103} INFO - [2021-01-19 23:18:43,466] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:18:43,477] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:19:11,404] {scheduler_job.py:181} INFO - Started process (PID=11405) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:19:11,405] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:19:11,405] {logging_mixin.py:103} INFO - [2021-01-19 23:19:11,405] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:19:11,413] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:19:11,414] {logging_mixin.py:103} INFO - [2021-01-19 23:19:11,414] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:19:11,429] {logging_mixin.py:103} INFO - [2021-01-19 23:19:11,429] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:19:11,441] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:19:39,926] {scheduler_job.py:181} INFO - Started process (PID=11530) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:19:39,927] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:19:39,927] {logging_mixin.py:103} INFO - [2021-01-19 23:19:39,927] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:19:39,935] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:19:39,936] {logging_mixin.py:103} INFO - [2021-01-19 23:19:39,936] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:19:39,951] {logging_mixin.py:103} INFO - [2021-01-19 23:19:39,951] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:19:39,963] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:20:07,891] {scheduler_job.py:181} INFO - Started process (PID=11588) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:20:07,892] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:20:07,893] {logging_mixin.py:103} INFO - [2021-01-19 23:20:07,893] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:20:07,901] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:20:07,902] {logging_mixin.py:103} INFO - [2021-01-19 23:20:07,902] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:20:07,917] {logging_mixin.py:103} INFO - [2021-01-19 23:20:07,917] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:20:07,929] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:20:36,417] {scheduler_job.py:181} INFO - Started process (PID=11630) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:20:36,418] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:20:36,418] {logging_mixin.py:103} INFO - [2021-01-19 23:20:36,418] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:20:36,426] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:20:36,427] {logging_mixin.py:103} INFO - [2021-01-19 23:20:36,427] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:20:36,442] {logging_mixin.py:103} INFO - [2021-01-19 23:20:36,442] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:20:36,454] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:21:04,428] {scheduler_job.py:181} INFO - Started process (PID=11681) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:21:04,429] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:21:04,430] {logging_mixin.py:103} INFO - [2021-01-19 23:21:04,430] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:21:04,438] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:21:04,438] {logging_mixin.py:103} INFO - [2021-01-19 23:21:04,438] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:21:04,454] {logging_mixin.py:103} INFO - [2021-01-19 23:21:04,454] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:21:04,466] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:21:31,897] {scheduler_job.py:181} INFO - Started process (PID=11722) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:21:31,898] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:21:31,898] {logging_mixin.py:103} INFO - [2021-01-19 23:21:31,898] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:21:31,906] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:21:31,907] {logging_mixin.py:103} INFO - [2021-01-19 23:21:31,907] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:21:31,922] {logging_mixin.py:103} INFO - [2021-01-19 23:21:31,922] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:21:31,934] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:22:00,410] {scheduler_job.py:181} INFO - Started process (PID=11764) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:00,411] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:22:00,411] {logging_mixin.py:103} INFO - [2021-01-19 23:22:00,411] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:00,419] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:00,420] {logging_mixin.py:103} INFO - [2021-01-19 23:22:00,420] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:22:00,435] {logging_mixin.py:103} INFO - [2021-01-19 23:22:00,435] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:22:00,447] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:22:28,395] {scheduler_job.py:181} INFO - Started process (PID=11812) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:28,395] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:22:28,396] {logging_mixin.py:103} INFO - [2021-01-19 23:22:28,396] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:28,404] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:28,405] {logging_mixin.py:103} INFO - [2021-01-19 23:22:28,405] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:22:28,420] {logging_mixin.py:103} INFO - [2021-01-19 23:22:28,420] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:22:28,431] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:22:57,482] {scheduler_job.py:181} INFO - Started process (PID=11854) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:57,482] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:22:57,483] {logging_mixin.py:103} INFO - [2021-01-19 23:22:57,483] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:57,491] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:22:57,492] {logging_mixin.py:103} INFO - [2021-01-19 23:22:57,492] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:22:57,507] {logging_mixin.py:103} INFO - [2021-01-19 23:22:57,507] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:22:57,520] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:23:24,882] {scheduler_job.py:181} INFO - Started process (PID=11901) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:23:24,883] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:23:24,884] {logging_mixin.py:103} INFO - [2021-01-19 23:23:24,884] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:23:24,891] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:23:24,892] {logging_mixin.py:103} INFO - [2021-01-19 23:23:24,892] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:23:24,907] {logging_mixin.py:103} INFO - [2021-01-19 23:23:24,907] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:23:24,929] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.049 seconds
+[2021-01-19 23:23:53,977] {scheduler_job.py:181} INFO - Started process (PID=11943) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:23:53,978] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:23:53,979] {logging_mixin.py:103} INFO - [2021-01-19 23:23:53,979] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:23:53,987] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:23:53,988] {logging_mixin.py:103} INFO - [2021-01-19 23:23:53,988] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:23:54,003] {logging_mixin.py:103} INFO - [2021-01-19 23:23:54,003] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:23:54,015] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:24:21,438] {scheduler_job.py:181} INFO - Started process (PID=11996) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:24:21,439] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:24:21,440] {logging_mixin.py:103} INFO - [2021-01-19 23:24:21,440] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:24:21,448] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:24:21,448] {logging_mixin.py:103} INFO - [2021-01-19 23:24:21,448] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:24:21,463] {logging_mixin.py:103} INFO - [2021-01-19 23:24:21,463] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:24:21,475] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:24:50,245] {scheduler_job.py:181} INFO - Started process (PID=12038) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:24:50,246] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:24:50,247] {logging_mixin.py:103} INFO - [2021-01-19 23:24:50,247] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:24:50,255] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:24:50,256] {logging_mixin.py:103} INFO - [2021-01-19 23:24:50,256] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:24:50,271] {logging_mixin.py:103} INFO - [2021-01-19 23:24:50,271] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:24:50,283] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:25:18,258] {scheduler_job.py:181} INFO - Started process (PID=12091) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:25:18,259] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:25:18,260] {logging_mixin.py:103} INFO - [2021-01-19 23:25:18,260] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:25:18,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:25:18,269] {logging_mixin.py:103} INFO - [2021-01-19 23:25:18,269] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:25:18,284] {logging_mixin.py:103} INFO - [2021-01-19 23:25:18,284] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:25:18,297] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:25:47,022] {scheduler_job.py:181} INFO - Started process (PID=12134) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:25:47,022] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:25:47,023] {logging_mixin.py:103} INFO - [2021-01-19 23:25:47,023] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:25:47,031] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:25:47,032] {logging_mixin.py:103} INFO - [2021-01-19 23:25:47,032] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:25:47,047] {logging_mixin.py:103} INFO - [2021-01-19 23:25:47,047] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:25:47,058] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:26:13,349] {scheduler_job.py:181} INFO - Started process (PID=12179) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:26:13,350] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:26:13,350] {logging_mixin.py:103} INFO - [2021-01-19 23:26:13,350] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:26:13,358] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:26:13,359] {logging_mixin.py:103} INFO - [2021-01-19 23:26:13,358] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:26:13,372] {logging_mixin.py:103} INFO - [2021-01-19 23:26:13,372] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:26:13,384] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.037 seconds
+[2021-01-19 23:26:42,414] {scheduler_job.py:181} INFO - Started process (PID=12220) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:26:42,415] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:26:42,415] {logging_mixin.py:103} INFO - [2021-01-19 23:26:42,415] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:26:42,424] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:26:42,425] {logging_mixin.py:103} INFO - [2021-01-19 23:26:42,424] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:26:42,439] {logging_mixin.py:103} INFO - [2021-01-19 23:26:42,439] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:26:42,451] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:27:09,969] {scheduler_job.py:181} INFO - Started process (PID=12347) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:27:09,970] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:27:09,970] {logging_mixin.py:103} INFO - [2021-01-19 23:27:09,970] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:27:09,978] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:27:09,979] {logging_mixin.py:103} INFO - [2021-01-19 23:27:09,979] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:27:09,994] {logging_mixin.py:103} INFO - [2021-01-19 23:27:09,994] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:27:10,006] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:27:39,052] {scheduler_job.py:181} INFO - Started process (PID=12388) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:27:39,053] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:27:39,053] {logging_mixin.py:103} INFO - [2021-01-19 23:27:39,053] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:27:39,062] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:27:39,062] {logging_mixin.py:103} INFO - [2021-01-19 23:27:39,062] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:27:39,078] {logging_mixin.py:103} INFO - [2021-01-19 23:27:39,078] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:27:39,090] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:28:06,518] {scheduler_job.py:181} INFO - Started process (PID=12440) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:28:06,518] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:28:06,519] {logging_mixin.py:103} INFO - [2021-01-19 23:28:06,519] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:28:06,527] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:28:06,528] {logging_mixin.py:103} INFO - [2021-01-19 23:28:06,527] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:28:06,541] {logging_mixin.py:103} INFO - [2021-01-19 23:28:06,541] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:28:06,553] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.038 seconds
+[2021-01-19 23:28:35,037] {scheduler_job.py:181} INFO - Started process (PID=12481) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:28:35,037] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:28:35,038] {logging_mixin.py:103} INFO - [2021-01-19 23:28:35,038] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:28:35,046] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:28:35,047] {logging_mixin.py:103} INFO - [2021-01-19 23:28:35,047] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:28:35,062] {logging_mixin.py:103} INFO - [2021-01-19 23:28:35,062] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:28:35,074] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:29:03,007] {scheduler_job.py:181} INFO - Started process (PID=12533) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:03,008] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:29:03,009] {logging_mixin.py:103} INFO - [2021-01-19 23:29:03,008] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:03,017] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:03,018] {logging_mixin.py:103} INFO - [2021-01-19 23:29:03,018] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:29:03,033] {logging_mixin.py:103} INFO - [2021-01-19 23:29:03,033] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:29:03,046] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:29:32,111] {scheduler_job.py:181} INFO - Started process (PID=12572) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:32,112] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:29:32,112] {logging_mixin.py:103} INFO - [2021-01-19 23:29:32,112] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:32,120] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:32,121] {logging_mixin.py:103} INFO - [2021-01-19 23:29:32,121] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:29:32,136] {logging_mixin.py:103} INFO - [2021-01-19 23:29:32,136] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:29:32,148] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:29:59,501] {scheduler_job.py:181} INFO - Started process (PID=12610) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:59,502] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:29:59,503] {logging_mixin.py:103} INFO - [2021-01-19 23:29:59,503] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:59,511] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:29:59,512] {logging_mixin.py:103} INFO - [2021-01-19 23:29:59,512] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:29:59,526] {logging_mixin.py:103} INFO - [2021-01-19 23:29:59,526] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:29:59,538] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:30:27,472] {scheduler_job.py:181} INFO - Started process (PID=12664) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:30:27,473] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:30:27,474] {logging_mixin.py:103} INFO - [2021-01-19 23:30:27,473] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:30:27,482] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:30:27,482] {logging_mixin.py:103} INFO - [2021-01-19 23:30:27,482] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:30:27,497] {logging_mixin.py:103} INFO - [2021-01-19 23:30:27,497] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:30:27,509] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:30:56,158] {scheduler_job.py:181} INFO - Started process (PID=12707) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:30:56,159] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:30:56,160] {logging_mixin.py:103} INFO - [2021-01-19 23:30:56,159] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:30:56,168] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:30:56,169] {logging_mixin.py:103} INFO - [2021-01-19 23:30:56,169] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:30:56,184] {logging_mixin.py:103} INFO - [2021-01-19 23:30:56,184] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:30:56,196] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:31:23,010] {scheduler_job.py:181} INFO - Started process (PID=12758) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:31:23,011] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:31:23,012] {logging_mixin.py:103} INFO - [2021-01-19 23:31:23,012] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:31:23,020] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:31:23,021] {logging_mixin.py:103} INFO - [2021-01-19 23:31:23,021] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:31:23,036] {logging_mixin.py:103} INFO - [2021-01-19 23:31:23,036] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:31:23,048] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:31:51,667] {scheduler_job.py:181} INFO - Started process (PID=12801) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:31:51,667] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:31:51,668] {logging_mixin.py:103} INFO - [2021-01-19 23:31:51,668] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:31:51,676] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:31:51,677] {logging_mixin.py:103} INFO - [2021-01-19 23:31:51,677] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:31:51,692] {logging_mixin.py:103} INFO - [2021-01-19 23:31:51,692] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:31:51,704] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:32:19,566] {scheduler_job.py:181} INFO - Started process (PID=12854) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:32:19,567] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:32:19,568] {logging_mixin.py:103} INFO - [2021-01-19 23:32:19,568] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:32:19,576] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:32:19,576] {logging_mixin.py:103} INFO - [2021-01-19 23:32:19,576] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:32:19,592] {logging_mixin.py:103} INFO - [2021-01-19 23:32:19,592] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:32:19,604] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:32:48,658] {scheduler_job.py:181} INFO - Started process (PID=12899) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:32:48,659] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:32:48,660] {logging_mixin.py:103} INFO - [2021-01-19 23:32:48,660] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:32:48,668] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:32:48,669] {logging_mixin.py:103} INFO - [2021-01-19 23:32:48,669] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:32:48,684] {logging_mixin.py:103} INFO - [2021-01-19 23:32:48,684] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:32:48,696] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:33:16,068] {scheduler_job.py:181} INFO - Started process (PID=12951) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:33:16,070] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:33:16,070] {logging_mixin.py:103} INFO - [2021-01-19 23:33:16,070] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:33:16,078] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:33:16,078] {logging_mixin.py:103} INFO - [2021-01-19 23:33:16,078] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:33:16,094] {logging_mixin.py:103} INFO - [2021-01-19 23:33:16,093] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:33:16,106] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:33:45,157] {scheduler_job.py:181} INFO - Started process (PID=12992) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:33:45,158] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:33:45,158] {logging_mixin.py:103} INFO - [2021-01-19 23:33:45,158] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:33:45,166] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:33:45,167] {logging_mixin.py:103} INFO - [2021-01-19 23:33:45,167] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:33:45,182] {logging_mixin.py:103} INFO - [2021-01-19 23:33:45,182] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:33:45,194] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:34:12,625] {scheduler_job.py:181} INFO - Started process (PID=13045) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:34:12,626] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:34:12,626] {logging_mixin.py:103} INFO - [2021-01-19 23:34:12,626] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:34:12,634] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:34:12,635] {logging_mixin.py:103} INFO - [2021-01-19 23:34:12,635] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:34:12,650] {logging_mixin.py:103} INFO - [2021-01-19 23:34:12,650] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:34:12,662] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:34:40,569] {scheduler_job.py:181} INFO - Started process (PID=13169) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:34:40,570] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:34:40,570] {logging_mixin.py:103} INFO - [2021-01-19 23:34:40,570] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:34:40,578] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:34:40,579] {logging_mixin.py:103} INFO - [2021-01-19 23:34:40,579] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:34:40,594] {logging_mixin.py:103} INFO - [2021-01-19 23:34:40,594] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:34:40,606] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:35:09,166] {scheduler_job.py:181} INFO - Started process (PID=13228) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:35:09,167] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:35:09,168] {logging_mixin.py:103} INFO - [2021-01-19 23:35:09,167] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:35:09,176] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:35:09,177] {logging_mixin.py:103} INFO - [2021-01-19 23:35:09,177] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:35:09,192] {logging_mixin.py:103} INFO - [2021-01-19 23:35:09,192] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:35:09,204] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:35:37,385] {scheduler_job.py:181} INFO - Started process (PID=13269) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:35:37,386] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:35:37,387] {logging_mixin.py:103} INFO - [2021-01-19 23:35:37,387] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:35:37,395] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:35:37,395] {logging_mixin.py:103} INFO - [2021-01-19 23:35:37,395] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:35:37,410] {logging_mixin.py:103} INFO - [2021-01-19 23:35:37,410] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:35:37,422] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:36:04,519] {scheduler_job.py:181} INFO - Started process (PID=13314) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:36:04,520] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:36:04,520] {logging_mixin.py:103} INFO - [2021-01-19 23:36:04,520] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:36:04,529] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:36:04,529] {logging_mixin.py:103} INFO - [2021-01-19 23:36:04,529] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:36:04,544] {logging_mixin.py:103} INFO - [2021-01-19 23:36:04,544] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:36:04,556] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:36:33,561] {scheduler_job.py:181} INFO - Started process (PID=13357) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:36:33,562] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:36:33,563] {logging_mixin.py:103} INFO - [2021-01-19 23:36:33,563] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:36:33,571] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:36:33,572] {logging_mixin.py:103} INFO - [2021-01-19 23:36:33,571] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:36:33,586] {logging_mixin.py:103} INFO - [2021-01-19 23:36:33,586] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:36:33,598] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:37:01,116] {scheduler_job.py:181} INFO - Started process (PID=13408) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:01,116] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:37:01,117] {logging_mixin.py:103} INFO - [2021-01-19 23:37:01,117] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:01,125] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:01,126] {logging_mixin.py:103} INFO - [2021-01-19 23:37:01,126] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:37:01,140] {logging_mixin.py:103} INFO - [2021-01-19 23:37:01,140] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:37:01,152] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:37:29,087] {scheduler_job.py:181} INFO - Started process (PID=13460) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:29,088] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:37:29,088] {logging_mixin.py:103} INFO - [2021-01-19 23:37:29,088] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:29,096] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:29,097] {logging_mixin.py:103} INFO - [2021-01-19 23:37:29,097] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:37:29,113] {logging_mixin.py:103} INFO - [2021-01-19 23:37:29,113] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:37:29,125] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:37:57,769] {scheduler_job.py:181} INFO - Started process (PID=13501) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:57,770] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:37:57,770] {logging_mixin.py:103} INFO - [2021-01-19 23:37:57,770] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:57,778] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:37:57,779] {logging_mixin.py:103} INFO - [2021-01-19 23:37:57,779] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:37:57,795] {logging_mixin.py:103} INFO - [2021-01-19 23:37:57,795] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:37:57,806] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:38:26,006] {scheduler_job.py:181} INFO - Started process (PID=13555) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:38:26,007] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:38:26,008] {logging_mixin.py:103} INFO - [2021-01-19 23:38:26,008] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:38:26,015] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:38:26,016] {logging_mixin.py:103} INFO - [2021-01-19 23:38:26,016] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:38:26,032] {logging_mixin.py:103} INFO - [2021-01-19 23:38:26,032] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:38:26,043] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:38:54,017] {scheduler_job.py:181} INFO - Started process (PID=13596) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:38:54,018] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:38:54,018] {logging_mixin.py:103} INFO - [2021-01-19 23:38:54,018] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:38:54,026] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:38:54,027] {logging_mixin.py:103} INFO - [2021-01-19 23:38:54,027] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:38:54,043] {logging_mixin.py:103} INFO - [2021-01-19 23:38:54,043] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:38:54,055] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:39:22,280] {scheduler_job.py:181} INFO - Started process (PID=13721) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:39:22,280] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:39:22,281] {logging_mixin.py:103} INFO - [2021-01-19 23:39:22,281] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:39:22,289] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:39:22,289] {logging_mixin.py:103} INFO - [2021-01-19 23:39:22,289] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:39:22,304] {logging_mixin.py:103} INFO - [2021-01-19 23:39:22,304] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:39:22,316] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:39:50,343] {scheduler_job.py:181} INFO - Started process (PID=13758) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:39:50,344] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:39:50,344] {logging_mixin.py:103} INFO - [2021-01-19 23:39:50,344] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:39:50,353] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:39:50,353] {logging_mixin.py:103} INFO - [2021-01-19 23:39:50,353] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:39:50,369] {logging_mixin.py:103} INFO - [2021-01-19 23:39:50,369] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:39:50,381] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:40:17,815] {scheduler_job.py:181} INFO - Started process (PID=13813) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:40:17,816] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:40:17,817] {logging_mixin.py:103} INFO - [2021-01-19 23:40:17,817] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:40:17,825] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:40:17,826] {logging_mixin.py:103} INFO - [2021-01-19 23:40:17,825] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:40:17,841] {logging_mixin.py:103} INFO - [2021-01-19 23:40:17,841] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:40:17,852] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:40:45,776] {scheduler_job.py:181} INFO - Started process (PID=13851) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:40:45,776] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:40:45,777] {logging_mixin.py:103} INFO - [2021-01-19 23:40:45,777] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:40:45,786] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:40:45,786] {logging_mixin.py:103} INFO - [2021-01-19 23:40:45,786] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:40:45,802] {logging_mixin.py:103} INFO - [2021-01-19 23:40:45,802] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:40:45,814] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:41:14,371] {scheduler_job.py:181} INFO - Started process (PID=13897) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:41:14,372] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:41:14,372] {logging_mixin.py:103} INFO - [2021-01-19 23:41:14,372] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:41:14,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:41:14,381] {logging_mixin.py:103} INFO - [2021-01-19 23:41:14,381] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:41:14,396] {logging_mixin.py:103} INFO - [2021-01-19 23:41:14,396] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:41:14,408] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:41:42,692] {scheduler_job.py:181} INFO - Started process (PID=13938) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:41:42,693] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:41:42,693] {logging_mixin.py:103} INFO - [2021-01-19 23:41:42,693] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:41:42,702] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:41:42,702] {logging_mixin.py:103} INFO - [2021-01-19 23:41:42,702] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:41:42,717] {logging_mixin.py:103} INFO - [2021-01-19 23:41:42,717] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:41:42,729] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:42:10,640] {scheduler_job.py:181} INFO - Started process (PID=14064) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:42:10,640] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:42:10,641] {logging_mixin.py:103} INFO - [2021-01-19 23:42:10,641] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:42:10,649] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:42:10,650] {logging_mixin.py:103} INFO - [2021-01-19 23:42:10,650] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:42:10,664] {logging_mixin.py:103} INFO - [2021-01-19 23:42:10,664] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:42:10,676] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:42:39,957] {scheduler_job.py:181} INFO - Started process (PID=14106) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:42:39,958] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:42:39,959] {logging_mixin.py:103} INFO - [2021-01-19 23:42:39,958] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:42:39,967] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:42:39,968] {logging_mixin.py:103} INFO - [2021-01-19 23:42:39,968] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:42:39,983] {logging_mixin.py:103} INFO - [2021-01-19 23:42:39,983] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:42:39,994] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:43:07,431] {scheduler_job.py:181} INFO - Started process (PID=14153) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:43:07,432] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:43:07,433] {logging_mixin.py:103} INFO - [2021-01-19 23:43:07,433] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:43:07,441] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:43:07,442] {logging_mixin.py:103} INFO - [2021-01-19 23:43:07,442] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:43:07,457] {logging_mixin.py:103} INFO - [2021-01-19 23:43:07,457] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:43:07,469] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:43:35,399] {scheduler_job.py:181} INFO - Started process (PID=14195) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:43:35,400] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:43:35,400] {logging_mixin.py:103} INFO - [2021-01-19 23:43:35,400] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:43:35,408] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:43:35,409] {logging_mixin.py:103} INFO - [2021-01-19 23:43:35,409] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:43:35,425] {logging_mixin.py:103} INFO - [2021-01-19 23:43:35,424] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:43:35,436] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:44:03,930] {scheduler_job.py:181} INFO - Started process (PID=14246) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:44:03,931] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:44:03,932] {logging_mixin.py:103} INFO - [2021-01-19 23:44:03,932] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:44:03,940] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:44:03,941] {logging_mixin.py:103} INFO - [2021-01-19 23:44:03,941] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:44:03,956] {logging_mixin.py:103} INFO - [2021-01-19 23:44:03,956] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:44:03,968] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:44:31,886] {scheduler_job.py:181} INFO - Started process (PID=14284) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:44:31,887] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:44:31,888] {logging_mixin.py:103} INFO - [2021-01-19 23:44:31,888] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:44:31,896] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:44:31,897] {logging_mixin.py:103} INFO - [2021-01-19 23:44:31,897] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:44:31,912] {logging_mixin.py:103} INFO - [2021-01-19 23:44:31,912] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:44:31,924] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:45:00,418] {scheduler_job.py:181} INFO - Started process (PID=14326) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:00,419] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:45:00,419] {logging_mixin.py:103} INFO - [2021-01-19 23:45:00,419] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:00,427] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:00,428] {logging_mixin.py:103} INFO - [2021-01-19 23:45:00,428] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:45:00,443] {logging_mixin.py:103} INFO - [2021-01-19 23:45:00,443] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:45:00,455] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:45:28,398] {scheduler_job.py:181} INFO - Started process (PID=14381) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:28,399] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:45:28,400] {logging_mixin.py:103} INFO - [2021-01-19 23:45:28,400] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:28,408] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:28,409] {logging_mixin.py:103} INFO - [2021-01-19 23:45:28,409] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:45:28,423] {logging_mixin.py:103} INFO - [2021-01-19 23:45:28,423] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:45:28,435] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:45:56,988] {scheduler_job.py:181} INFO - Started process (PID=14409) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:56,989] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:45:56,990] {logging_mixin.py:103} INFO - [2021-01-19 23:45:56,990] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:56,998] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:45:56,998] {logging_mixin.py:103} INFO - [2021-01-19 23:45:56,998] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:45:57,014] {logging_mixin.py:103} INFO - [2021-01-19 23:45:57,014] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:45:57,025] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:46:25,035] {scheduler_job.py:181} INFO - Started process (PID=14550) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:46:25,036] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:46:25,036] {logging_mixin.py:103} INFO - [2021-01-19 23:46:25,036] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:46:25,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:46:25,045] {logging_mixin.py:103} INFO - [2021-01-19 23:46:25,045] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:46:25,060] {logging_mixin.py:103} INFO - [2021-01-19 23:46:25,060] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:46:25,072] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:46:53,628] {scheduler_job.py:181} INFO - Started process (PID=14589) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:46:53,629] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:46:53,630] {logging_mixin.py:103} INFO - [2021-01-19 23:46:53,629] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:46:53,638] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:46:53,638] {logging_mixin.py:103} INFO - [2021-01-19 23:46:53,638] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:46:53,654] {logging_mixin.py:103} INFO - [2021-01-19 23:46:53,654] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:46:53,666] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:47:21,520] {scheduler_job.py:181} INFO - Started process (PID=14633) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:47:21,521] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:47:21,522] {logging_mixin.py:103} INFO - [2021-01-19 23:47:21,522] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:47:21,530] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:47:21,531] {logging_mixin.py:103} INFO - [2021-01-19 23:47:21,531] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:47:21,553] {logging_mixin.py:103} INFO - [2021-01-19 23:47:21,553] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:47:21,565] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.047 seconds
+[2021-01-19 23:47:48,924] {scheduler_job.py:181} INFO - Started process (PID=14672) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:47:48,924] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:47:48,925] {logging_mixin.py:103} INFO - [2021-01-19 23:47:48,925] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:47:48,933] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:47:48,934] {logging_mixin.py:103} INFO - [2021-01-19 23:47:48,934] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:47:48,948] {logging_mixin.py:103} INFO - [2021-01-19 23:47:48,948] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:47:48,960] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:48:18,024] {scheduler_job.py:181} INFO - Started process (PID=14720) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:48:18,024] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:48:18,026] {logging_mixin.py:103} INFO - [2021-01-19 23:48:18,025] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:48:18,033] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:48:18,034] {logging_mixin.py:103} INFO - [2021-01-19 23:48:18,034] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:48:18,049] {logging_mixin.py:103} INFO - [2021-01-19 23:48:18,049] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:48:18,061] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:48:45,455] {scheduler_job.py:181} INFO - Started process (PID=14749) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:48:45,456] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:48:45,456] {logging_mixin.py:103} INFO - [2021-01-19 23:48:45,456] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:48:45,464] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:48:45,465] {logging_mixin.py:103} INFO - [2021-01-19 23:48:45,465] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:48:45,480] {logging_mixin.py:103} INFO - [2021-01-19 23:48:45,480] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:48:45,493] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:49:14,272] {scheduler_job.py:181} INFO - Started process (PID=14887) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:49:14,272] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:49:14,273] {logging_mixin.py:103} INFO - [2021-01-19 23:49:14,273] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:49:14,281] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:49:14,282] {logging_mixin.py:103} INFO - [2021-01-19 23:49:14,282] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:49:14,297] {logging_mixin.py:103} INFO - [2021-01-19 23:49:14,296] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:49:14,308] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:49:43,095] {scheduler_job.py:181} INFO - Started process (PID=14927) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:49:43,096] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:49:43,096] {logging_mixin.py:103} INFO - [2021-01-19 23:49:43,096] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:49:43,105] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:49:43,105] {logging_mixin.py:103} INFO - [2021-01-19 23:49:43,105] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:49:43,121] {logging_mixin.py:103} INFO - [2021-01-19 23:49:43,121] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:49:43,133] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:50:11,055] {scheduler_job.py:181} INFO - Started process (PID=14977) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:50:11,056] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:50:11,056] {logging_mixin.py:103} INFO - [2021-01-19 23:50:11,056] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:50:11,064] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:50:11,065] {logging_mixin.py:103} INFO - [2021-01-19 23:50:11,065] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:50:11,081] {logging_mixin.py:103} INFO - [2021-01-19 23:50:11,081] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:50:11,093] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:50:39,587] {scheduler_job.py:181} INFO - Started process (PID=15016) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:50:39,588] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:50:39,588] {logging_mixin.py:103} INFO - [2021-01-19 23:50:39,588] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:50:39,596] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:50:39,597] {logging_mixin.py:103} INFO - [2021-01-19 23:50:39,597] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:50:39,612] {logging_mixin.py:103} INFO - [2021-01-19 23:50:39,612] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:50:39,624] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:51:07,644] {scheduler_job.py:181} INFO - Started process (PID=15851) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:51:07,645] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:51:07,646] {logging_mixin.py:103} INFO - [2021-01-19 23:51:07,646] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:51:07,662] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:51:07,667] {logging_mixin.py:103} INFO - [2021-01-19 23:51:07,663] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:51:07,690] {logging_mixin.py:103} INFO - [2021-01-19 23:51:07,690] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:51:07,706] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.068 seconds
+[2021-01-19 23:51:36,196] {scheduler_job.py:181} INFO - Started process (PID=16006) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:51:36,197] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:51:36,198] {logging_mixin.py:103} INFO - [2021-01-19 23:51:36,198] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:51:36,206] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:51:36,207] {logging_mixin.py:103} INFO - [2021-01-19 23:51:36,207] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:51:36,222] {logging_mixin.py:103} INFO - [2021-01-19 23:51:36,222] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:51:36,234] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:52:04,167] {scheduler_job.py:181} INFO - Started process (PID=16059) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:52:04,168] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:52:04,169] {logging_mixin.py:103} INFO - [2021-01-19 23:52:04,169] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:52:04,177] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:52:04,178] {logging_mixin.py:103} INFO - [2021-01-19 23:52:04,178] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:52:04,193] {logging_mixin.py:103} INFO - [2021-01-19 23:52:04,193] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:52:04,205] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:52:31,618] {scheduler_job.py:181} INFO - Started process (PID=16100) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:52:31,619] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:52:31,619] {logging_mixin.py:103} INFO - [2021-01-19 23:52:31,619] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:52:31,627] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:52:31,628] {logging_mixin.py:103} INFO - [2021-01-19 23:52:31,628] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:52:31,644] {logging_mixin.py:103} INFO - [2021-01-19 23:52:31,643] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:52:31,655] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:53:00,723] {scheduler_job.py:181} INFO - Started process (PID=16142) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:00,724] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:53:00,724] {logging_mixin.py:103} INFO - [2021-01-19 23:53:00,724] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:00,733] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:00,733] {logging_mixin.py:103} INFO - [2021-01-19 23:53:00,733] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:53:00,749] {logging_mixin.py:103} INFO - [2021-01-19 23:53:00,749] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:53:00,761] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.041 seconds
+[2021-01-19 23:53:28,121] {scheduler_job.py:181} INFO - Started process (PID=16193) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:28,121] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:53:28,122] {logging_mixin.py:103} INFO - [2021-01-19 23:53:28,122] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:28,130] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:28,130] {logging_mixin.py:103} INFO - [2021-01-19 23:53:28,130] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:53:28,145] {logging_mixin.py:103} INFO - [2021-01-19 23:53:28,145] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:53:28,156] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.038 seconds
+[2021-01-19 23:53:57,230] {scheduler_job.py:181} INFO - Started process (PID=16235) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:57,231] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:53:57,231] {logging_mixin.py:103} INFO - [2021-01-19 23:53:57,231] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:57,239] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:53:57,240] {logging_mixin.py:103} INFO - [2021-01-19 23:53:57,240] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:53:57,255] {logging_mixin.py:103} INFO - [2021-01-19 23:53:57,255] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:53:57,267] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:54:24,612] {scheduler_job.py:181} INFO - Started process (PID=16282) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:54:24,613] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:54:24,613] {logging_mixin.py:103} INFO - [2021-01-19 23:54:24,613] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:54:24,622] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:54:24,622] {logging_mixin.py:103} INFO - [2021-01-19 23:54:24,622] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:54:24,637] {logging_mixin.py:103} INFO - [2021-01-19 23:54:24,637] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:54:24,649] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:54:53,718] {scheduler_job.py:181} INFO - Started process (PID=16321) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:54:53,719] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:54:53,719] {logging_mixin.py:103} INFO - [2021-01-19 23:54:53,719] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:54:53,727] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:54:53,728] {logging_mixin.py:103} INFO - [2021-01-19 23:54:53,728] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:54:53,742] {logging_mixin.py:103} INFO - [2021-01-19 23:54:53,742] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:54:53,754] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:55:21,110] {scheduler_job.py:181} INFO - Started process (PID=16372) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:55:21,111] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:55:21,111] {logging_mixin.py:103} INFO - [2021-01-19 23:55:21,111] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:55:21,119] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:55:21,120] {logging_mixin.py:103} INFO - [2021-01-19 23:55:21,120] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:55:21,134] {logging_mixin.py:103} INFO - [2021-01-19 23:55:21,134] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:55:21,145] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.038 seconds
+[2021-01-19 23:55:49,926] {scheduler_job.py:181} INFO - Started process (PID=16410) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:55:49,926] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:55:49,927] {logging_mixin.py:103} INFO - [2021-01-19 23:55:49,927] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:55:49,935] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:55:49,936] {logging_mixin.py:103} INFO - [2021-01-19 23:55:49,936] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:55:49,951] {logging_mixin.py:103} INFO - [2021-01-19 23:55:49,951] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:55:49,963] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:56:17,954] {scheduler_job.py:181} INFO - Started process (PID=16465) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:56:17,955] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:56:17,956] {logging_mixin.py:103} INFO - [2021-01-19 23:56:17,956] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:56:17,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:56:17,965] {logging_mixin.py:103} INFO - [2021-01-19 23:56:17,965] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:56:17,980] {logging_mixin.py:103} INFO - [2021-01-19 23:56:17,980] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:56:17,991] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:56:46,731] {scheduler_job.py:181} INFO - Started process (PID=16509) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:56:46,732] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:56:46,732] {logging_mixin.py:103} INFO - [2021-01-19 23:56:46,732] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:56:46,740] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:56:46,741] {logging_mixin.py:103} INFO - [2021-01-19 23:56:46,741] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:56:46,756] {logging_mixin.py:103} INFO - [2021-01-19 23:56:46,756] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:56:46,768] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:57:14,288] {scheduler_job.py:181} INFO - Started process (PID=16554) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:57:14,289] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:57:14,289] {logging_mixin.py:103} INFO - [2021-01-19 23:57:14,289] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:57:14,298] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:57:14,298] {logging_mixin.py:103} INFO - [2021-01-19 23:57:14,298] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:57:14,312] {logging_mixin.py:103} INFO - [2021-01-19 23:57:14,312] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:57:14,324] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.038 seconds
+[2021-01-19 23:57:43,269] {scheduler_job.py:181} INFO - Started process (PID=16595) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:57:43,270] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:57:43,270] {logging_mixin.py:103} INFO - [2021-01-19 23:57:43,270] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:57:43,279] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:57:43,280] {logging_mixin.py:103} INFO - [2021-01-19 23:57:43,279] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:57:43,295] {logging_mixin.py:103} INFO - [2021-01-19 23:57:43,295] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:57:43,306] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:58:10,824] {scheduler_job.py:181} INFO - Started process (PID=16647) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:58:10,825] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:58:10,825] {logging_mixin.py:103} INFO - [2021-01-19 23:58:10,825] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:58:10,834] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:58:10,835] {logging_mixin.py:103} INFO - [2021-01-19 23:58:10,834] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:58:10,850] {logging_mixin.py:103} INFO - [2021-01-19 23:58:10,850] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:58:10,862] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.040 seconds
+[2021-01-19 23:58:39,891] {scheduler_job.py:181} INFO - Started process (PID=16763) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:58:39,892] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:58:39,892] {logging_mixin.py:103} INFO - [2021-01-19 23:58:39,892] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:58:39,900] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:58:39,901] {logging_mixin.py:103} INFO - [2021-01-19 23:58:39,901] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:58:39,916] {logging_mixin.py:103} INFO - [2021-01-19 23:58:39,916] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:58:39,927] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:59:07,347] {scheduler_job.py:181} INFO - Started process (PID=16812) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:59:07,348] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:59:07,349] {logging_mixin.py:103} INFO - [2021-01-19 23:59:07,349] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:59:07,357] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:59:07,358] {logging_mixin.py:103} INFO - [2021-01-19 23:59:07,358] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:59:07,372] {logging_mixin.py:103} INFO - [2021-01-19 23:59:07,372] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:59:07,384] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
+[2021-01-19 23:59:35,871] {scheduler_job.py:181} INFO - Started process (PID=16850) to work on /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:59:35,872] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/airflow/dags/primeira_dag.py for tasks to queue
+[2021-01-19 23:59:35,872] {logging_mixin.py:103} INFO - [2021-01-19 23:59:35,872] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:59:35,880] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['primeira_dag']) retrieved from /home/ubuntu/environment/airflow/dags/primeira_dag.py
+[2021-01-19 23:59:35,881] {logging_mixin.py:103} INFO - [2021-01-19 23:59:35,881] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-01-19 23:59:35,896] {logging_mixin.py:103} INFO - [2021-01-19 23:59:35,896] {dag.py:2266} INFO - Setting next_dagrun for primeira_dag to 2021-01-17 00:00:00+00:00
+[2021-01-19 23:59:35,908] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/airflow/dags/primeira_dag.py took 0.039 seconds
