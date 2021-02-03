@@ -39,6 +39,21 @@ def mysql_rds_database_authentication():
   return mydb
 
 
+def mysql_rds_django_authentication():
+  
+  mydb = mysql.connector.connect(
+    host = os.environ.get('MYSQL_TWITTER_HOST'),
+    user = os.environ.get('MYSQL_TWITTER_USER'),
+    port = os.environ.get('MYSQL_TWITTER_PORT'),
+    password = os.environ.get('MYSQL_TWITTER_PASSWORD'),
+    database = 'twitter-monitor'
+  )
+
+  print('Autenticação no banco de dados django models arroba')
+  return mydb
+
+
+
 def tweets_by_userlist(**context):
   
   inicio = datetime.now()
@@ -177,8 +192,8 @@ def tweets_by_userlist(**context):
   
   
 def get_userlist():
-    mydb = mysql_rds_database_authentication()
-    users_df = pd.read_sql("SELECT user_ids FROM userlist;", con=mydb)
-    userlist = list(users_df.user_ids)
+    mydb = mysql_rds_django_authentication()
+    users_df = pd.read_sql("SELECT arroba FROM gestao_usuarios_arrobamodel;", con=mydb)
+    userlist = list(users_df.arroba)
     mydb.close()
     return {'userlist': userlist}

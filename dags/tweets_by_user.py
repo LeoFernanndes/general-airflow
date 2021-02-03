@@ -39,7 +39,7 @@ dag = DAG(
     dag_id='tweets_by_user',
     default_args=default_args,
     description='Query up to last 3000 tweets by user in a list',
-    schedule_interval='*/1 * * * *',
+    schedule_interval='1 * * * *',
     start_date=datetime(2021, 1, 19 , 22, 39),
     tags=['example'],
 )
@@ -51,11 +51,20 @@ get_userlist = PythonOperator(
     dag=dag
     )
 
-
+"""
 get_tweets_by_user_list = PythonOperator(
         task_id='get_tweets_by_user_list',
         python_callable=twitter.tweets_by_userlist,
         op_kwargs={'userlist': ['bolsonarosp', 'opropriolavo']},
+        dag=dag
+    )
+"""
+
+
+get_tweets_by_user_list = PythonOperator(
+        task_id='get_tweets_by_user_list',
+        python_callable=twitter.tweets_by_userlist,
+        op_kwargs={},
         dag=dag
     )
 
