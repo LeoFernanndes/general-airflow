@@ -39,8 +39,8 @@ dag = DAG(
     dag_id='tweets_by_user',
     default_args=default_args,
     description='Query up to last 3000 tweets by user in a list',
-    schedule_interval='1 * * * *',
-    start_date=datetime(2021, 1, 19 , 22, 39),
+    schedule_interval='* * * * *',
+    start_date=datetime(2021, 2, 2, 22, 1, 0),
     tags=['example'],
 )
 

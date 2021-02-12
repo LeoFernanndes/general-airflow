@@ -66,8 +66,13 @@ def tweets_by_userlist(**context):
   
   userlist = context['task_instance'].xcom_pull(task_ids='get_userlist')['userlist']
   
-  for userID in userlist:
   
+  for userID in userlist:
+    
+    mydb = mysql_rds_database_authentication()
+    newest_date = pd.read_sql(f"SELECT date FROM tweets where arroba = '{userID}' order by date desc limit 1;", con=mydb).date[0]
+    mydb.close()
+    
     tweets = api.user_timeline(screen_name=userID, 
                                 # 200 is the maximum allowed count
                                 count=1,
@@ -78,6 +83,7 @@ def tweets_by_userlist(**context):
                                 )
   
     oldest_id = tweets[-1].id
+  
   
     while len(tweets) > 0:
       
@@ -120,7 +126,8 @@ def tweets_by_userlist(**context):
       
       oldest_id = tweets[-1].id
   
-  
+      if date[-1] < newest_date:
+        break
   
   tweets_df = pd.DataFrame({
       'id': id,

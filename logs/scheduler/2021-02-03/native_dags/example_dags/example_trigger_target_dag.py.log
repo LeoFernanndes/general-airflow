@@ -1,0 +1,21 @@
+[2021-02-03 03:56:33,771] {scheduler_job.py:181} INFO - Started process (PID=2148) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:56:33,795] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-02-03 03:56:33,799] {logging_mixin.py:103} INFO - [2021-02-03 03:56:33,799] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:56:33,860] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:56:33,887] {logging_mixin.py:103} INFO - [2021-02-03 03:56:33,886] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:34,008] {logging_mixin.py:103} INFO - [2021-02-03 03:56:34,007] {dag.py:2266} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-02-03 03:56:34,167] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.398 seconds
+[2021-02-03 03:57:02,454] {scheduler_job.py:181} INFO - Started process (PID=2242) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:57:02,459] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-02-03 03:57:02,460] {logging_mixin.py:103} INFO - [2021-02-03 03:57:02,460] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:57:02,479] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:57:02,485] {logging_mixin.py:103} INFO - [2021-02-03 03:57:02,485] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:02,506] {logging_mixin.py:103} INFO - [2021-02-03 03:57:02,506] {dag.py:2266} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-02-03 03:57:02,517] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2021-02-03 03:57:31,573] {scheduler_job.py:181} INFO - Started process (PID=2320) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:57:31,577] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-02-03 03:57:31,578] {logging_mixin.py:103} INFO - [2021-02-03 03:57:31,578] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:57:31,594] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-02-03 03:57:31,597] {logging_mixin.py:103} INFO - [2021-02-03 03:57:31,597] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:31,616] {logging_mixin.py:103} INFO - [2021-02-03 03:57:31,616] {dag.py:2266} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-02-03 03:57:31,631] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds

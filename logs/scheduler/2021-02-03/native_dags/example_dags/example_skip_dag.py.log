@@ -1,0 +1,21 @@
+[2021-02-03 03:56:40,604] {scheduler_job.py:181} INFO - Started process (PID=2169) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:56:40,607] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-02-03 03:56:40,609] {logging_mixin.py:103} INFO - [2021-02-03 03:56:40,609] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:56:40,621] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:56:40,624] {logging_mixin.py:103} INFO - [2021-02-03 03:56:40,624] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:40,642] {logging_mixin.py:103} INFO - [2021-02-03 03:56:40,642] {dag.py:2266} INFO - Setting next_dagrun for example_skip_dag to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:56:40,686] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2021-02-03 03:57:09,875] {scheduler_job.py:181} INFO - Started process (PID=2256) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:57:09,880] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-02-03 03:57:09,881] {logging_mixin.py:103} INFO - [2021-02-03 03:57:09,881] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:57:09,895] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:57:09,899] {logging_mixin.py:103} INFO - [2021-02-03 03:57:09,899] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:09,918] {logging_mixin.py:103} INFO - [2021-02-03 03:57:09,917] {dag.py:2266} INFO - Setting next_dagrun for example_skip_dag to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:57:09,929] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-02-03 03:57:38,478] {scheduler_job.py:181} INFO - Started process (PID=2341) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:57:38,481] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-02-03 03:57:38,482] {logging_mixin.py:103} INFO - [2021-02-03 03:57:38,482] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:57:38,497] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-02-03 03:57:38,500] {logging_mixin.py:103} INFO - [2021-02-03 03:57:38,500] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:38,518] {logging_mixin.py:103} INFO - [2021-02-03 03:57:38,518] {dag.py:2266} INFO - Setting next_dagrun for example_skip_dag to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:57:38,537] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds

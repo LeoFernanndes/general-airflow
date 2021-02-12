@@ -1,0 +1,21 @@
+[2021-02-03 03:56:45,761] {scheduler_job.py:181} INFO - Started process (PID=2185) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:56:45,766] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-02-03 03:56:45,773] {logging_mixin.py:103} INFO - [2021-02-03 03:56:45,773] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:56:45,788] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:56:45,791] {logging_mixin.py:103} INFO - [2021-02-03 03:56:45,791] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:45,809] {logging_mixin.py:103} INFO - [2021-02-03 03:56:45,809] {dag.py:2266} INFO - Setting next_dagrun for latest_only to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:56:45,863] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py took 0.105 seconds
+[2021-02-03 03:57:15,010] {scheduler_job.py:181} INFO - Started process (PID=2268) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:57:15,015] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-02-03 03:57:15,015] {logging_mixin.py:103} INFO - [2021-02-03 03:57:15,015] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:57:15,030] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:57:15,036] {logging_mixin.py:103} INFO - [2021-02-03 03:57:15,036] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:15,055] {logging_mixin.py:103} INFO - [2021-02-03 03:57:15,055] {dag.py:2266} INFO - Setting next_dagrun for latest_only to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:57:15,066] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py took 0.058 seconds
+[2021-02-03 03:57:43,613] {scheduler_job.py:181} INFO - Started process (PID=2353) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:57:43,617] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-02-03 03:57:43,618] {logging_mixin.py:103} INFO - [2021-02-03 03:57:43,617] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:57:43,634] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py
+[2021-02-03 03:57:43,637] {logging_mixin.py:103} INFO - [2021-02-03 03:57:43,637] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:43,656] {logging_mixin.py:103} INFO - [2021-02-03 03:57:43,655] {dag.py:2266} INFO - Setting next_dagrun for latest_only to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:57:43,671] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_latest_only.py took 0.060 seconds

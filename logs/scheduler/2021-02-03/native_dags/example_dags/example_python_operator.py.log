@@ -1,0 +1,28 @@
+[2021-02-03 03:56:28,281] {scheduler_job.py:181} INFO - Started process (PID=2129) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:56:28,284] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-02-03 03:56:28,286] {logging_mixin.py:103} INFO - [2021-02-03 03:56:28,286] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:56:28,298] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:56:28,299] {logging_mixin.py:103} INFO - [2021-02-03 03:56:28,299] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:28,317] {logging_mixin.py:103} INFO - [2021-02-03 03:56:28,316] {dag.py:2266} INFO - Setting next_dagrun for example_python_operator to None
+[2021-02-03 03:56:28,360] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py took 0.082 seconds
+[2021-02-03 03:56:57,315] {scheduler_job.py:181} INFO - Started process (PID=2213) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:56:57,318] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-02-03 03:56:57,319] {logging_mixin.py:103} INFO - [2021-02-03 03:56:57,319] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:56:57,336] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:56:57,339] {logging_mixin.py:103} INFO - [2021-02-03 03:56:57,339] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:57,357] {logging_mixin.py:103} INFO - [2021-02-03 03:56:57,357] {dag.py:2266} INFO - Setting next_dagrun for example_python_operator to None
+[2021-02-03 03:56:57,367] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py took 0.055 seconds
+[2021-02-03 03:57:26,137] {scheduler_job.py:181} INFO - Started process (PID=2300) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:57:26,141] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-02-03 03:57:26,142] {logging_mixin.py:103} INFO - [2021-02-03 03:57:26,142] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:57:26,160] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:57:26,163] {logging_mixin.py:103} INFO - [2021-02-03 03:57:26,163] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:26,217] {logging_mixin.py:103} INFO - [2021-02-03 03:57:26,217] {dag.py:2266} INFO - Setting next_dagrun for example_python_operator to None
+[2021-02-03 03:57:26,255] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py took 0.120 seconds
+[2021-02-03 03:57:55,432] {scheduler_job.py:181} INFO - Started process (PID=2385) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:57:55,439] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-02-03 03:57:55,439] {logging_mixin.py:103} INFO - [2021-02-03 03:57:55,439] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:57:55,457] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py
+[2021-02-03 03:57:55,462] {logging_mixin.py:103} INFO - [2021-02-03 03:57:55,462] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:55,484] {logging_mixin.py:103} INFO - [2021-02-03 03:57:55,484] {dag.py:2266} INFO - Setting next_dagrun for example_python_operator to None
+[2021-02-03 03:57:55,499] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_python_operator.py took 0.070 seconds

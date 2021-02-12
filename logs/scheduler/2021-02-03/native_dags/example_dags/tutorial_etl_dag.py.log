@@ -1,0 +1,21 @@
+[2021-02-03 03:56:31,486] {scheduler_job.py:181} INFO - Started process (PID=2145) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:56:31,488] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-02-03 03:56:31,490] {logging_mixin.py:103} INFO - [2021-02-03 03:56:31,490] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:56:31,502] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:56:31,504] {logging_mixin.py:103} INFO - [2021-02-03 03:56:31,504] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:31,521] {logging_mixin.py:103} INFO - [2021-02-03 03:56:31,521] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-02-03 03:56:31,572] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.089 seconds
+[2021-02-03 03:57:00,701] {scheduler_job.py:181} INFO - Started process (PID=2227) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:57:00,706] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-02-03 03:57:00,707] {logging_mixin.py:103} INFO - [2021-02-03 03:57:00,707] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:57:00,725] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:57:00,729] {logging_mixin.py:103} INFO - [2021-02-03 03:57:00,729] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:00,748] {logging_mixin.py:103} INFO - [2021-02-03 03:57:00,748] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-02-03 03:57:00,759] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.060 seconds
+[2021-02-03 03:57:29,315] {scheduler_job.py:181} INFO - Started process (PID=2311) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:57:29,326] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2021-02-03 03:57:29,326] {logging_mixin.py:103} INFO - [2021-02-03 03:57:29,326] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:57:29,347] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2021-02-03 03:57:29,350] {logging_mixin.py:103} INFO - [2021-02-03 03:57:29,350] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:29,369] {logging_mixin.py:103} INFO - [2021-02-03 03:57:29,368] {dag.py:2266} INFO - Setting next_dagrun for tutorial_etl_dag to None
+[2021-02-03 03:57:29,383] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.071 seconds

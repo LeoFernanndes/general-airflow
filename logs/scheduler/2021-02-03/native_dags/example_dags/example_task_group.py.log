@@ -1,0 +1,21 @@
+[2021-02-03 03:56:54,519] {scheduler_job.py:181} INFO - Started process (PID=2203) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:56:54,524] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-02-03 03:56:54,527] {logging_mixin.py:103} INFO - [2021-02-03 03:56:54,527] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:56:54,541] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:56:54,545] {logging_mixin.py:103} INFO - [2021-02-03 03:56:54,545] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:56:54,565] {logging_mixin.py:103} INFO - [2021-02-03 03:56:54,564] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:56:54,609] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.093 seconds
+[2021-02-03 03:57:23,034] {scheduler_job.py:181} INFO - Started process (PID=2294) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:57:23,038] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-02-03 03:57:23,039] {logging_mixin.py:103} INFO - [2021-02-03 03:57:23,039] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:57:23,054] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:57:23,058] {logging_mixin.py:103} INFO - [2021-02-03 03:57:23,057] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:23,082] {logging_mixin.py:103} INFO - [2021-02-03 03:57:23,081] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:57:23,095] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.064 seconds
+[2021-02-03 03:57:52,153] {scheduler_job.py:181} INFO - Started process (PID=2379) to work on /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:57:52,157] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-02-03 03:57:52,157] {logging_mixin.py:103} INFO - [2021-02-03 03:57:52,157] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:57:52,173] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py
+[2021-02-03 03:57:52,176] {logging_mixin.py:103} INFO - [2021-02-03 03:57:52,176] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-02-03 03:57:52,197] {logging_mixin.py:103} INFO - [2021-02-03 03:57:52,197] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-02-01 00:00:00+00:00
+[2021-02-03 03:57:52,213] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/venv/lib/python3.6/site-packages/airflow/example_dags/example_task_group.py took 0.063 seconds
