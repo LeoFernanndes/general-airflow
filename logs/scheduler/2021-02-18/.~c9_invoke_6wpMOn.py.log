@@ -1,0 +1,50 @@
+[2021-02-18 13:38:18,017] {scheduler_job.py:181} INFO - Started process (PID=7662) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:38:18,018] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:38:18,020] {logging_mixin.py:103} INFO - [2021-02-18 13:38:18,020] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:38:18,021] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:38:18,022] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:38:48,805] {scheduler_job.py:181} INFO - Started process (PID=7774) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:38:48,807] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:38:48,809] {logging_mixin.py:103} INFO - [2021-02-18 13:38:48,809] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:38:48,810] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:38:48,811] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:39:17,408] {scheduler_job.py:181} INFO - Started process (PID=8012) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:39:17,411] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:39:17,415] {logging_mixin.py:103} INFO - [2021-02-18 13:39:17,415] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:39:17,416] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:39:17,417] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.012 seconds
+[2021-02-18 13:39:46,006] {scheduler_job.py:181} INFO - Started process (PID=8102) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:39:46,008] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:39:46,010] {logging_mixin.py:103} INFO - [2021-02-18 13:39:46,009] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:39:46,010] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:39:46,012] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:40:16,995] {scheduler_job.py:181} INFO - Started process (PID=8218) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:40:16,997] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:40:16,999] {logging_mixin.py:103} INFO - [2021-02-18 13:40:16,999] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:40:17,000] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:40:17,001] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.009 seconds
+[2021-02-18 13:40:46,114] {scheduler_job.py:181} INFO - Started process (PID=8300) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:40:46,118] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:40:46,118] {logging_mixin.py:103} INFO - [2021-02-18 13:40:46,118] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:40:46,118] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:40:46,120] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:41:15,123] {scheduler_job.py:181} INFO - Started process (PID=8389) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:41:15,125] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:41:15,128] {logging_mixin.py:103} INFO - [2021-02-18 13:41:15,128] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:41:15,128] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:41:15,129] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:41:44,839] {scheduler_job.py:181} INFO - Started process (PID=8473) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:41:44,842] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:41:44,843] {logging_mixin.py:103} INFO - [2021-02-18 13:41:44,843] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:41:44,844] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:41:44,845] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:42:15,102] {scheduler_job.py:181} INFO - Started process (PID=8583) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:42:15,104] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:42:15,105] {logging_mixin.py:103} INFO - [2021-02-18 13:42:15,105] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:42:15,106] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:42:15,107] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds
+[2021-02-18 13:42:45,577] {scheduler_job.py:181} INFO - Started process (PID=8675) to work on /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:42:45,579] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py for tasks to queue
+[2021-02-18 13:42:45,580] {logging_mixin.py:103} INFO - [2021-02-18 13:42:45,580] {dagbag.py:440} INFO - Filling up the DagBag from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:42:45,581] {scheduler_job.py:641} WARNING - No viable dags retrieved from /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py
+[2021-02-18 13:42:45,582] {scheduler_job.py:189} INFO - Processing /home/ubuntu/environment/general-airflow/dags/.~c9_invoke_6wpMOn.py took 0.008 seconds

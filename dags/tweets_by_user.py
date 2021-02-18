@@ -8,7 +8,7 @@ sys.path.append(f"{os.environ['AIRFLOW_HOME']}/apps_functions/twitter")
 
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
-from datetime import datetime
+from datetime import datetime, timedelta
 import twitter
 
 
@@ -18,20 +18,7 @@ default_args = {
     'email': ['airflow@example.com'],
     'email_on_failure': False,
     'email_on_retry': False,
-    'retries': 1,
-    # 'queue': 'bash_queue',
-    # 'pool': 'backfill',
-    # 'priority_weight': 10,
-    # 'end_date': datetime(2016, 1, 1),
-    # 'wait_for_downstream': False,
-    # 'dag': dag,
-    # 'sla': timedelta(hours=2),
-    # 'execution_timeout': timedelta(seconds=300),
-    # 'on_failure_callback': some_function,
-    # 'on_success_callback': some_other_function,
-    # 'on_retry_callback': another_function,
-    # 'sla_miss_callback': yet_another_function,
-    # 'trigger_rule': 'all_success'
+    'retries': 1
 }
 
 
@@ -40,7 +27,7 @@ dag = DAG(
     default_args=default_args,
     description='Query up to last 3000 tweets by user in a list',
     schedule_interval='* * * * *',
-    start_date=datetime(2021, 2, 2, 22, 1, 0),
+    start_date=datetime(2021, 2, 18, 22, 25),
     tags=['example'],
 )
 
@@ -50,15 +37,6 @@ get_userlist = PythonOperator(
     python_callable=twitter.get_userlist,
     dag=dag
     )
-
-"""
-get_tweets_by_user_list = PythonOperator(
-        task_id='get_tweets_by_user_list',
-        python_callable=twitter.tweets_by_userlist,
-        op_kwargs={'userlist': ['bolsonarosp', 'opropriolavo']},
-        dag=dag
-    )
-"""
 
 
 get_tweets_by_user_list = PythonOperator(

@@ -51,8 +51,7 @@ def mysql_rds_django_authentication():
 
   print('Autenticação no banco de dados django models arroba')
   return mydb
-
-
+  
 
 def tweets_by_userlist(**context):
   
@@ -65,7 +64,6 @@ def tweets_by_userlist(**context):
   count = 0
   
   userlist = context['task_instance'].xcom_pull(task_ids='get_userlist')['userlist']
-  
   
   for userID in userlist:
     
@@ -84,7 +82,6 @@ def tweets_by_userlist(**context):
   
     oldest_id = tweets[-1].id
   
-  
     while len(tweets) > 0:
       
       count += 1
@@ -100,7 +97,7 @@ def tweets_by_userlist(**context):
                                 include_rts = True,
                                 # Necessary to keep full_text 
                                 # otherwise only the first 140 words are extracted
-                                max_id = int(oldest_id) - 1,
+                                max_id = int(oldest_id),
                                 tweet_mode = 'extended',
                                 )
   
@@ -124,7 +121,7 @@ def tweets_by_userlist(**context):
       if len(tweets) == 0:
         continue
       
-      oldest_id = tweets[-1].id
+      oldest_id = tweets[-1].id - 1
   
       if date[-1] < newest_date:
         break
@@ -147,8 +144,6 @@ def tweets_by_userlist(**context):
   final = datetime.now()
   print(final - inicio)
   print(tweets_df.shape[0])
-  
-  # return tweets_df
   
   # persist data to database
   inicio = datetime.now()
@@ -175,8 +170,6 @@ def tweets_by_userlist(**context):
   
   final = datetime.now()
   print(final - inicio)
-
-  
   
   inicio = datetime.now()
   
@@ -197,10 +190,9 @@ def tweets_by_userlist(**context):
   print(f'{tweets_df.shape[0]} devidamente inseridas no banco')
  
   
-  
 def get_userlist():
     mydb = mysql_rds_django_authentication()
     users_df = pd.read_sql("SELECT arroba FROM gestao_usuarios_arrobamodel;", con=mydb)
-    userlist = list(users_df.arroba)
+    userlist = list(set(users_df.arroba))
     mydb.close()
     return {'userlist': userlist}

@@ -1,0 +1,39 @@
+[2021-02-18 22:49:04,592] {taskinstance.py:826} INFO - Dependencies all met for <TaskInstance: tweets_by_user.get_tweets_by_user_list 2021-02-18T22:48:00+00:00 [queued]>
+[2021-02-18 22:49:04,598] {taskinstance.py:826} INFO - Dependencies all met for <TaskInstance: tweets_by_user.get_tweets_by_user_list 2021-02-18T22:48:00+00:00 [queued]>
+[2021-02-18 22:49:04,598] {taskinstance.py:1017} INFO - 
+--------------------------------------------------------------------------------
+[2021-02-18 22:49:04,598] {taskinstance.py:1018} INFO - Starting attempt 1 of 2
+[2021-02-18 22:49:04,598] {taskinstance.py:1019} INFO - 
+--------------------------------------------------------------------------------
+[2021-02-18 22:49:04,607] {taskinstance.py:1038} INFO - Executing <Task(PythonOperator): get_tweets_by_user_list> on 2021-02-18T22:48:00+00:00
+[2021-02-18 22:49:04,609] {standard_task_runner.py:51} INFO - Started process 19417 to run task
+[2021-02-18 22:49:04,615] {standard_task_runner.py:75} INFO - Running: ['airflow', 'tasks', 'run', 'tweets_by_user', 'get_tweets_by_user_list', '2021-02-18T22:48:00+00:00', '--job-id', '1159', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/tweets_by_user.py', '--cfg-path', '/tmp/tmp7sbjfsqq']
+[2021-02-18 22:49:04,617] {standard_task_runner.py:76} INFO - Job 1159: Subtask get_tweets_by_user_list
+[2021-02-18 22:49:04,644] {logging_mixin.py:103} INFO - Running <TaskInstance: tweets_by_user.get_tweets_by_user_list 2021-02-18T22:48:00+00:00 [running]> on host ip-172-31-3-59.ec2.internal
+[2021-02-18 22:49:04,670] {taskinstance.py:1232} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tweets_by_user
+AIRFLOW_CTX_TASK_ID=get_tweets_by_user_list
+AIRFLOW_CTX_EXECUTION_DATE=2021-02-18T22:48:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-02-18T22:48:00+00:00
+[2021-02-18 22:49:04,672] {logging_mixin.py:103} INFO - Autenticação no twitter
+[2021-02-18 22:49:04,687] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:04,873] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:05,480] {logging_mixin.py:103} INFO - 200
+[2021-02-18 22:49:05,491] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:05,628] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:06,029] {logging_mixin.py:103} INFO - 400
+[2021-02-18 22:49:06,038] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:06,195] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:06,666] {logging_mixin.py:103} INFO - 600
+[2021-02-18 22:49:06,670] {logging_mixin.py:103} INFO - 0:00:01.998466
+[2021-02-18 22:49:06,670] {logging_mixin.py:103} INFO - 600
+[2021-02-18 22:49:08,644] {logging_mixin.py:103} INFO - 0:00:01.973969
+[2021-02-18 22:49:08,677] {logging_mixin.py:103} INFO - Autenticação no banco de dados twitter_data
+[2021-02-18 22:49:08,699] {logging_mixin.py:103} INFO - 0:00:00.055208
+[2021-02-18 22:49:08,699] {logging_mixin.py:103} INFO - 600 devidamente inseridas no banco
+[2021-02-18 22:49:08,701] {python.py:118} INFO - Done. Returned value was: None
+[2021-02-18 22:49:08,705] {taskinstance.py:1142} INFO - Marking task as SUCCESS. dag_id=tweets_by_user, task_id=get_tweets_by_user_list, execution_date=20210218T224800, start_date=20210218T224904, end_date=20210218T224908
+[2021-02-18 22:49:08,726] {taskinstance.py:1195} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-02-18 22:49:08,760] {local_task_job.py:118} INFO - Task exited with return code 0

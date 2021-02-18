@@ -1,0 +1,24 @@
+[2021-02-18 22:38:02,450] {taskinstance.py:826} INFO - Dependencies all met for <TaskInstance: tweets_by_user.get_userlist 2021-02-18T22:37:00+00:00 [queued]>
+[2021-02-18 22:38:02,455] {taskinstance.py:826} INFO - Dependencies all met for <TaskInstance: tweets_by_user.get_userlist 2021-02-18T22:37:00+00:00 [queued]>
+[2021-02-18 22:38:02,456] {taskinstance.py:1017} INFO - 
+--------------------------------------------------------------------------------
+[2021-02-18 22:38:02,456] {taskinstance.py:1018} INFO - Starting attempt 1 of 2
+[2021-02-18 22:38:02,456] {taskinstance.py:1019} INFO - 
+--------------------------------------------------------------------------------
+[2021-02-18 22:38:02,466] {taskinstance.py:1038} INFO - Executing <Task(PythonOperator): get_userlist> on 2021-02-18T22:37:00+00:00
+[2021-02-18 22:38:02,468] {standard_task_runner.py:51} INFO - Started process 18053 to run task
+[2021-02-18 22:38:02,473] {standard_task_runner.py:75} INFO - Running: ['airflow', 'tasks', 'run', 'tweets_by_user', 'get_userlist', '2021-02-18T22:37:00+00:00', '--job-id', '1125', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/tweets_by_user.py', '--cfg-path', '/tmp/tmpvjdfuc_y']
+[2021-02-18 22:38:02,476] {standard_task_runner.py:76} INFO - Job 1125: Subtask get_userlist
+[2021-02-18 22:38:02,503] {logging_mixin.py:103} INFO - Running <TaskInstance: tweets_by_user.get_userlist 2021-02-18T22:37:00+00:00 [running]> on host ip-172-31-3-59.ec2.internal
+[2021-02-18 22:38:02,524] {taskinstance.py:1232} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tweets_by_user
+AIRFLOW_CTX_TASK_ID=get_userlist
+AIRFLOW_CTX_EXECUTION_DATE=2021-02-18T22:37:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-02-18T22:37:00+00:00
+[2021-02-18 22:38:02,568] {logging_mixin.py:103} INFO - Autenticação no banco de dados django models arroba
+[2021-02-18 22:38:02,573] {python.py:118} INFO - Done. Returned value was: {'userlist': ['marcobezzi', 'heldermaldonado', 'oatila']}
+[2021-02-18 22:38:02,586] {taskinstance.py:1142} INFO - Marking task as SUCCESS. dag_id=tweets_by_user, task_id=get_userlist, execution_date=20210218T223700, start_date=20210218T223802, end_date=20210218T223802
+[2021-02-18 22:38:02,639] {taskinstance.py:1195} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-02-18 22:38:02,683] {local_task_job.py:118} INFO - Task exited with return code 0
